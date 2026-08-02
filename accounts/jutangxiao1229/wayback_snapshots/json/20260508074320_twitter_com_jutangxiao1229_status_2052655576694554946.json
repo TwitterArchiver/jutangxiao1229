@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052655570872868864"
+      ]
+    },
+    "author_id": "1845076547197353984",
+    "conversation_id": "2052631028771266967",
+    "created_at": "2026-05-08T07:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052655576694554946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721895937357004800",
+          "start": 0,
+          "username": "Strf_9040C"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UgeB3QpzBS",
+          "end": 35,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2052655576694554946/photo/1",
+          "media_key": "3_2052655570872868864",
+          "start": 12,
+          "url": "https://t.co/UgeB3QpzBS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052655576694554946",
+    "in_reply_to_user_id": "1721895937357004800",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052631028771266967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strf_9040C https://t.co/UgeB3QpzBS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052655576694554946].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052655576694554946",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052655576694554946"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 834,
+        "media_key": "3_2052655570872868864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHx_XcQaoAAKiLg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2176,
+        "media_key": "3_2052631026028208128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxpCvlbYAAX3ye.jpg",
+        "width": 1812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052631026028208128"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2052631028771266967",
+        "created_at": "2026-05-08T06:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052631028771266967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TU3ryVM6gq",
+              "end": 88,
+              "expanded_url": "https://x.com/Strf_9040C/status/2052631028771266967/photo/1",
+              "media_key": "3_2052631026028208128",
+              "start": 65,
+              "url": "https://t.co/TU3ryVM6gq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052631028771266967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1090,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以防你不知道\n所有三星手机都预装了这个吉娃娃照片\n打开拨号输入*#0*#\n按SENSOR\n点最上面第一个键\n就可以看见这个吉娃娃 https://t.co/TU3ryVM6gq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 159,
+          "like_count": 2634,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 277
+        },
+        "username": "jutangxiao1229",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A\n主人🥰@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 1978,
+          "like_count": 9377,
+          "listed_count": 2,
+          "media_count": 488,
+          "tweet_count": 946
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

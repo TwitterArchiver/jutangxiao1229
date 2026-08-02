@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2080439342334665073",
+    "created_at": "2026-07-24T00:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T01:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080457878943764764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057743680061255680",
+          "start": 0,
+          "username": "Koroshiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080457878943764764",
+    "in_reply_to_user_id": "2057743680061255680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080439342334665073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Koroshiiiiiii 我吃唑吡坦也是哈哈哈哈哈～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1867,
+        "media_key": "3_2080439335669940224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN80jZtbQAAl3PN.jpg",
+        "width": 1136
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2080439342334665073",
+        "created_at": "2026-07-24T00:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080457878943764764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057743680061255680",
+              "start": 0,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080457878943764764",
+        "in_reply_to_user_id": "2057743680061255680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080439342334665073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koroshiiiiiii 我吃唑吡坦也是哈哈哈哈哈～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080439335669940224"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080439342334665073",
+        "created_at": "2026-07-23T23:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T00:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080439342334665073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H7eJ25oXoj",
+              "end": 34,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2080439342334665073/photo/1",
+              "media_key": "3_2080439335669940224",
+              "start": 11,
+              "url": "https://t.co/H7eJ25oXoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080439342334665073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "...sns害人不浅 https://t.co/H7eJ25oXoj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2665,
+          "following_count": 252,
+          "like_count": 11863,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 702
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "🚪77（防扰）\n可以叫小杀（🦋同名只发drug）\n不🩸🔪/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪\n药理学习中💊/不出售任何物质，免费私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaO9Us0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 118,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 95,
+                "url": "https://t.co/9aTLaO9Us0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1SEJ4"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2075645184621330511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 281,
+          "like_count": 3261,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1088
+        },
+        "url": "https://t.co/Q7AWi1SEJ4",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

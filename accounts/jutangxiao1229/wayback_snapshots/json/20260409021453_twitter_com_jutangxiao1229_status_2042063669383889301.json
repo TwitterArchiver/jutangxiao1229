@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042063637058330624",
+        "3_2042063654250778624"
+      ]
+    },
+    "author_id": "1845076547197353984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042063669383889301",
+    "created_at": "2026-04-09T02:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T03:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042063669383889301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6OqkjZGJld",
+          "end": 38,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2042063669383889301/photo/1",
+          "media_key": "3_2042063637058330624",
+          "start": 15,
+          "url": "https://t.co/6OqkjZGJld"
+        },
+        {
+          "display_url": "pic.x.com/6OqkjZGJld",
+          "end": 38,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2042063669383889301/photo/1",
+          "media_key": "3_2042063654250778624",
+          "start": 15,
+          "url": "https://t.co/6OqkjZGJld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042063669383889301",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "6600件衣服达成◍˃ᵕ˂◍ https://t.co/6OqkjZGJld"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1929,
+        "media_key": "3_2042063637058330624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbeDv-aoAA_mPd.jpg",
+        "width": 1401
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2042063654250778624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbeEwBakAAA1bR.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042063637058330624",
+            "3_2042063654250778624"
+          ]
+        },
+        "author_id": "1845076547197353984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042063669383889301",
+        "created_at": "2026-04-09T02:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T03:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042063669383889301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6OqkjZGJld",
+              "end": 38,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2042063669383889301/photo/1",
+              "media_key": "3_2042063637058330624",
+              "start": 15,
+              "url": "https://t.co/6OqkjZGJld"
+            },
+            {
+              "display_url": "pic.x.com/6OqkjZGJld",
+              "end": 38,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2042063669383889301/photo/1",
+              "media_key": "3_2042063654250778624",
+              "start": 15,
+              "url": "https://t.co/6OqkjZGJld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042063669383889301",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "6600件衣服达成◍˃ᵕ˂◍ https://t.co/6OqkjZGJld"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/可以来找我聊天但是回复很慢/当日记随时删/监护员@fghj87526441",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "fghj87526441"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039212303745421312/yNpBqqWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 98,
+          "like_count": 536,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 125
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

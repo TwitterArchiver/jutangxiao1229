@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2073735513983611355",
+    "created_at": "2026-07-05T11:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073737187938697330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781745564738281472",
+          "start": 0,
+          "username": "Stolly21_TG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073737187938697330",
+    "in_reply_to_user_id": "1781745564738281472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073735513983611355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stolly21_TG 就算不同受体换着来也不够耐受恢复时间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2073735513983611355",
+        "created_at": "2026-07-05T11:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073737187938697330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073737187938697330",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073735513983611355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 就算不同受体换着来也不够耐受恢复时间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781745564738281472",
+        "conversation_id": "2073735513983611355",
+        "created_at": "2026-07-05T11:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073735513983611355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073735513983611355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好羡慕每天都od的人。。您们完全不在意耐药和药效吗😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jutangxiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jutangxiao",
+                "start": 0,
+                "url": "https://t.co/DUSIG2aP97"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 212,
+          "like_count": 5124,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 488
+        },
+        "url": "https://t.co/DUSIG2aP97",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 199,
+          "like_count": 1175,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 610
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

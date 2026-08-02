@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2041431590467940422",
+    "created_at": "2026-04-07T09:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T10:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041454674533027865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1989965282799226880",
+          "start": 0,
+          "username": "DQadopt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041454674533027865",
+    "in_reply_to_user_id": "1989965282799226880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041431590467940422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DQadopt 你和小鸟的关系真的好好，要不再找小鸟倾诉一下吧，摸摸头～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2041431590467940422",
+        "created_at": "2026-04-07T09:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041454674533027865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041454674533027865",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041431590467940422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 你和小鸟的关系真的好好，要不再找小鸟倾诉一下吧，摸摸头～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2041431590467940422",
+        "created_at": "2026-04-07T08:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041431590467940422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041431590467940422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又想买抽血道具了\n原本答应小鸟丢了的，但是我不行啊，不自残不行啊，不用痛苦代替掉痛苦我就容易自杀啊你能理解的吧\n我觉得我真的累了，我放过了过去，现在会逼我去死，放过了现在，将来会逼我去死，怎么会这样呢怎么会这样呢\n今晚回去还要面对昨天一直问我上不上天台一起跳楼的妈妈啊\n世界欠我太多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/可以来找我聊天但是回复很慢/当日记随时删/监护员@fghj87526441",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "fghj87526441"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039212303745421312/yNpBqqWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 95,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 107
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 305,
+          "like_count": 2492,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 2930
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "23le1🌈非典型性在逃精神病，想见我请踏入群山，有一片荒野，我将在那与你相会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 305,
+          "like_count": 2492,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 2930
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": true
+      }
+    ]
+  }
+}

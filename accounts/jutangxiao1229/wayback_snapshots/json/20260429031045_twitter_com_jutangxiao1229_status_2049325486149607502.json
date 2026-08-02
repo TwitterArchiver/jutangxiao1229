@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2049325486149607502",
+    "created_at": "2026-04-29T03:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T04:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049325486149607502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jutangxiao1229…",
+          "end": 147,
+          "expanded_url": "https://twitter.com/jutangxiao1229/status/2048400591232315685",
+          "start": 124,
+          "url": "https://t.co/Vxru5Dohpi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049325486149607502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048400591232315685",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最终三种可能是都没猜中(笑\n医生开了好多唑吡坦(不是\n以及\n😺：那我要调整现在的药物吗？\n👨🏻‍⚕️：你自己看着来好了，抗抑郁药物、抗焦虑药物什么的自己配就行了，反正你病识感和药物知识也够。\n😺：总感觉有点草率(大笑\n但是普瑞的处方没给我开T﹏T https://t.co/Vxru5Dohpi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2048400588912967680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1he5PbwAAxAGT.jpg",
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2049325486149607502",
+        "created_at": "2026-04-29T03:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049325486149607502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jutangxiao1229…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/jutangxiao1229/status/2048400591232315685",
+              "start": 124,
+              "url": "https://t.co/Vxru5Dohpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049325486149607502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048400591232315685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最终三种可能是都没猜中(笑\n医生开了好多唑吡坦(不是\n以及\n😺：那我要调整现在的药物吗？\n👨🏻‍⚕️：你自己看着来好了，抗抑郁药物、抗焦虑药物什么的自己配就行了，反正你病识感和药物知识也够。\n😺：总感觉有点草率(大笑\n但是普瑞的处方没给我开T﹏T https://t.co/Vxru5Dohpi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048400588912967680"
+          ]
+        },
+        "author_id": "1845076547197353984",
+        "conversation_id": "2048400591232315685",
+        "created_at": "2026-04-26T13:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048400591232315685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3YgjqWSqXp",
+              "end": 136,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2048400591232315685/photo/1",
+              "media_key": "3_2048400588912967680",
+              "start": 113,
+              "url": "https://t.co/3YgjqWSqXp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048400591232315685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 117,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇如果和精神科医生讲睡前用pr抗焦虑，精神科能开出pr吗(应该是超说明书用药，但是精神科经常超说明书用药，笑)\n但是大概率会开阿普唑仑ᴗ.ᴗ\n超小概率开出pr(如果我是医生我应该不会冒这个风险\n更小概率强制住院(bushi https://t.co/3YgjqWSqXp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员@fghj87526441",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 86,
+                "username": "fghj87526441"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 102,
+          "like_count": 1611,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 182
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

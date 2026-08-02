@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2073985714845549001",
+    "created_at": "2026-07-07T23:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T00:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074637932342964728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1589235830731997188",
+          "start": 0,
+          "username": "PWaterawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074637932342964728",
+    "in_reply_to_user_id": "1589235830731997188",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074519720196448672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PWaterawa ᜊ•͈⌔•͈ᜊ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2073985714845549001",
+        "created_at": "2026-07-07T23:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T00:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074637932342964728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589235830731997188",
+              "start": 0,
+              "username": "PWaterawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074637932342964728",
+        "in_reply_to_user_id": "1589235830731997188",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074519720196448672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PWaterawa ᜊ•͈⌔•͈ᜊ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589235830731997188",
+        "conversation_id": "2073985714845549001",
+        "created_at": "2026-07-07T15:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074519720196448672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074519720196448672",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073985714845549001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 蹲蹲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "pinned_tweet_id": "2073985714845549001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 219,
+          "like_count": 5659,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 567
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-06T12:38:50.000Z",
+        "description": "为何而可爱?为何而残酷?\n因爱因恶\n爱为何物?恶为何物?\n不知不知\nPS.会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pwaterawa1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pwaterawa1",
+                "start": 0,
+                "url": "https://t.co/XINkJVVhgw"
+              }
+            ]
+          }
+        },
+        "id": "1589235830731997188",
+        "location": "可爱的世界~也是残酷的世界…",
+        "name": "汐汐",
+        "pinned_tweet_id": "1917968098625548312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890021657315786753/VVAYoJBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 1249,
+          "like_count": 2239,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 2883
+        },
+        "url": "https://t.co/XINkJVVhgw",
+        "username": "PWaterawa",
+        "verified": false
+      }
+    ]
+  }
+}

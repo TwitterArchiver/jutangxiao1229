@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2046952371708973277",
+    "created_at": "2026-04-22T14:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T15:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046952371708973277"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jutangxiao1229…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/jutangxiao1229/status/2046944394696413309",
+          "start": 109,
+          "url": "https://t.co/HiE9k9VUZb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046952371708973277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046944394696413309",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "突然就解离了，\n我感觉肉体和精神变成了两个独立的个体，\n肉体达不到精神的要求，所以精神就故意让它疼，让它流血，\n活着本来就是场注定要死的荒诞闹剧，\n只有痛和血，才能证明我还没彻底掉进那片永恒的空虚，\n这一切毫无意义。 https://t.co/HiE9k9VUZb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2046952371708973277",
+        "created_at": "2026-04-22T14:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046952371708973277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jutangxiao1229…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/jutangxiao1229/status/2046944394696413309",
+              "start": 109,
+              "url": "https://t.co/HiE9k9VUZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046952371708973277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046944394696413309",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然就解离了，\n我感觉肉体和精神变成了两个独立的个体，\n肉体达不到精神的要求，所以精神就故意让它疼，让它流血，\n活着本来就是场注定要死的荒诞闹剧，\n只有痛和血，才能证明我还没彻底掉进那片永恒的空虚，\n这一切毫无意义。 https://t.co/HiE9k9VUZb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2046944394696413309",
+        "created_at": "2026-04-22T13:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046944394696413309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046944394696413309",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自分が死んでもどうでもよくて\nそれでも周りに生きて欲しくて\n矛盾を抱えて生きてくなんて怒られてしまう\n「正しいものは正しくいなさい。」\n「死にたくないなら生きていなさい。」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员@fghj87526441",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 86,
+                "username": "fghj87526441"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 93,
+          "like_count": 1288,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 168
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

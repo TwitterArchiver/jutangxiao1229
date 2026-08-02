@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2073616764861370600",
+    "created_at": "2026-07-05T07:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073675581120729267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1560533329912311808",
+          "start": 0,
+          "username": "BdZzbw6goo2"
+        },
+        {
+          "end": 23,
+          "id": "2061329105266831360",
+          "start": 13,
+          "username": "yangion73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073675581120729267",
+    "in_reply_to_user_id": "1560533329912311808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073626271469416704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BdZzbw6goo2 @yangion73 自制难度太高了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2073616764861370600",
+        "created_at": "2026-07-05T07:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073675581120729267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            },
+            {
+              "end": 23,
+              "id": "2061329105266831360",
+              "start": 13,
+              "username": "yangion73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073675581120729267",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073626271469416704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 @yangion73 自制难度太高了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560533329912311808",
+        "conversation_id": "2073616764861370600",
+        "created_at": "2026-07-05T04:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073626271469416704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2061329105266831360",
+              "start": 0,
+              "username": "yangion73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073626271469416704",
+        "in_reply_to_user_id": "2061329105266831360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073616764861370600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangion73 注射液之前在京东能买到，但现在好像下架了。丙泊酚本身不是管制物质，试剂在网上到能买到，问题是咋把它配制成注射液形式的（好像不容于水？）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jutangxiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jutangxiao",
+                "start": 0,
+                "url": "https://t.co/DUSIG2aP97"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 212,
+          "like_count": 5053,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/DUSIG2aP97",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 1266,
+          "like_count": 87253,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "BdZzbw6goo2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-01T06:09:24.000Z",
+        "description": "MTF 🏳️‍⚧️ | HRT 🍥2026.4.13 无证含糖\n出厂日期 2011.5.17 |家长反对党 |\n| od | 紫残| 精神状态堪忧\n被关精卫中...\n被迫断糖\n 欢迎互 fo 呀",
+        "id": "2061329105266831360",
+        "name": "溯音 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063942814141214720/JsJbUJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 157,
+          "like_count": 146,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 286
+        },
+        "url": "",
+        "username": "yangion73",
+        "verified": false
+      }
+    ]
+  }
+}

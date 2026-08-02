@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2073347446273700241",
+    "created_at": "2026-07-04T10:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T11:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073347446273700241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jutangxiao1229…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/jutangxiao1229/status/2073336697761444094",
+          "start": 145,
+          "url": "https://t.co/Lq6bALsWsP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073347446273700241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这不是第一次\n活动想自己安排、衣服想自己挑、朋友想自己约……\n每次我试着拿回一点点边界，迎接我的往往都是类似的话：\n“妈妈/爸爸都帮你想好了”“一家人要一起……”“你怎么这么不听话/难说话？”“这样不是方便一些吗？！”\nᴗ.ᴗ\n对方用“爱”和“关心”的外壳，把控制包装得天衣无缝（︶︿︶）\n他们可能真的觉得自己在付出！\n\n🦁：“我会给你选择权利，但是选择的结果必须是我想要的”，像一根看不见的线，一次次把我拉回原位•᎔•"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073336697761444094",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这不是第一次\n活动想自己安排、衣服想自己挑、朋友想自己约……\n每次我试着拿回一点点边界，迎接我的往往都是类似的话：\n“妈妈/爸爸都帮你想好了”“一家人要一起……”“你怎么这么不听话/难说话？”“这样不是方便一些吗？！”\nᴗ.ᴗ\n对方用“爱”和“关心”的外壳，把控制包装得天衣无缝（︶︿︶） https://t.co/Lq6bALsWsP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2073347446273700241",
+        "created_at": "2026-07-04T10:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073347446273700241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jutangxiao1229…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/jutangxiao1229/status/2073336697761444094",
+              "start": 145,
+              "url": "https://t.co/Lq6bALsWsP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073347446273700241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这不是第一次\n活动想自己安排、衣服想自己挑、朋友想自己约……\n每次我试着拿回一点点边界，迎接我的往往都是类似的话：\n“妈妈/爸爸都帮你想好了”“一家人要一起……”“你怎么这么不听话/难说话？”“这样不是方便一些吗？！”\nᴗ.ᴗ\n对方用“爱”和“关心”的外壳，把控制包装得天衣无缝（︶︿︶）\n他们可能真的觉得自己在付出！\n\n🦁：“我会给你选择权利，但是选择的结果必须是我想要的”，像一根看不见的线，一次次把我拉回原位•᎔•"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073336697761444094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这不是第一次\n活动想自己安排、衣服想自己挑、朋友想自己约……\n每次我试着拿回一点点边界，迎接我的往往都是类似的话：\n“妈妈/爸爸都帮你想好了”“一家人要一起……”“你怎么这么不听话/难说话？”“这样不是方便一些吗？！”\nᴗ.ᴗ\n对方用“爱”和“关心”的外壳，把控制包装得天衣无缝（︶︿︶） https://t.co/Lq6bALsWsP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2073336697761444094",
+        "created_at": "2026-07-04T09:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073336697761444094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jutangxiao1229…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/jutangxiao1229/status/2073335266459480254",
+              "start": 86,
+              "url": "https://t.co/38NGszmd6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073336697761444094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073335266459480254",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "连“我想吃什么”这种小事，都要被“为你好”覆盖掉\n我已经提前想好要吃什么、怎么准备，甚至隐隐期待着那种小小的、属于自己的掌控感\n结果还是被温柔地、理所当然的拿走了\nᴗ.ᴗ https://t.co/38NGszmd6w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jutangxiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jutangxiao",
+                "start": 0,
+                "url": "https://t.co/DUSIG2aP97"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 209,
+          "like_count": 4457,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/DUSIG2aP97",
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

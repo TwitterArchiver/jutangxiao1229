@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2050450624131817865",
+    "created_at": "2026-05-02T06:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T07:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050456873309278516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721895937357004800",
+          "start": 0,
+          "username": "Strf_9040C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050456873309278516",
+    "in_reply_to_user_id": "1721895937357004800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050450624131817865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strf_9040C 为什么你们都有propofol՞••՞一把抓起，全部捞走～"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48277,
+        "height": 1280,
+        "media_key": "7_2050450481387020288",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050450481387020288/pu/img/VHpYhQfo-kgmsf8v.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050450481387020288/pu/vid/avc1/320x568/enfAp-jCR0_tyJ9e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050450481387020288/pu/vid/avc1/480x852/3-qwzJjmJ_kvKe5V.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050450481387020288/pu/vid/avc1/720x1280/EyqjbKoMeGIvz9c5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050450481387020288/pu/pl/w7_YTwgQRnNDFAN0.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2050450624131817865",
+        "created_at": "2026-05-02T06:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050456873309278516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050456873309278516",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050450624131817865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 为什么你们都有propofol՞••՞一把抓起，全部捞走～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050450481387020288"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2050450624131817865",
+        "created_at": "2026-05-02T05:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050450624131817865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VzppK4DdRQ",
+              "end": 45,
+              "expanded_url": "https://x.com/Strf_9040C/status/2050450624131817865/video/1",
+              "media_key": "7_2050450481387020288",
+              "start": 22,
+              "url": "https://t.co/VzppK4DdRQ"
+            },
+            {
+              "display_url": "x.com/TSKrwglq/statu…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/TSKrwglq/status/2050073563017925059",
+              "start": 46,
+              "url": "https://t.co/LJ2ATe9g86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050450624131817865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050073563017925059",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看别人都在摇盒子召唤同类我也来摇一个🥺👉👈 https://t.co/VzppK4DdRQ https://t.co/LJ2ATe9g86"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 125,
+          "like_count": 1873,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 210
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A\n主人🥰@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 1928,
+          "like_count": 9124,
+          "listed_count": 0,
+          "media_count": 463,
+          "tweet_count": 905
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

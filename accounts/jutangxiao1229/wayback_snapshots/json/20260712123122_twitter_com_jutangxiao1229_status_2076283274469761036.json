@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2076120264589639847",
+    "created_at": "2026-07-12T12:31:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076283274469761036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1462208415837655043",
+          "start": 0,
+          "username": "Prechaska"
+        },
+        {
+          "end": 20,
+          "id": "467659726",
+          "start": 11,
+          "username": "WorstCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076283274469761036",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076152206315880686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prechaska @WorstCat 地达西尼我也试过，虽然都是GABAA，但是抗焦虑效果几乎没有，而且我次日还会头痛，棠宣布阿普唑仑完胜(笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2076120264589639847",
+        "created_at": "2026-07-12T12:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076283274469761036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            },
+            {
+              "end": 20,
+              "id": "467659726",
+              "start": 11,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076283274469761036",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076152206315880686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska @WorstCat 地达西尼我也试过，虽然都是GABAA，但是抗焦虑效果几乎没有，而且我次日还会头痛，棠宣布阿普唑仑完胜(笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2076120264589639847",
+        "created_at": "2026-07-12T03:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T04:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076152206315880686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076152206315880686",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076148256393023606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 是的😢超贵，有医保的话应该能报销点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2174,
+          "following_count": 243,
+          "like_count": 8419,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 626
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 159,
+          "like_count": 3910,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 1830
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "location": "距离514米",
+        "name": "坏猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3069,
+          "following_count": 61,
+          "like_count": 12360,
+          "listed_count": 5,
+          "media_count": 258,
+          "tweet_count": 1724
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false
+      }
+    ]
+  }
+}

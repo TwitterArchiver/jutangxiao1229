@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2076784267372429609",
+    "created_at": "2026-07-13T21:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T22:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076784267372429609"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076784267372429609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "当遇到问题时，即使可以让父母来帮助，棠也想自己来处理，所以希望他们别插手\n不是不感激，只是那种被“照顾”的感觉，带着一点沉\n如果是陌生人伸出援手，棠反而会松一口气，甚至觉得挺好的，因为不用担心后面会连着什么\n\n对父母的帮助，棠容易下意识拒绝；对陌生人的善意，却能自然地接受并心怀谢意\n这不是爱不爱的问题\n只是父母的帮助，从来不是单纯的“帮一下”\n它后面连着太多的担心、太多的期待，还有棠自己不想成为“那个需要被操心的人”的倔强\n接受这个帮助，就等于承认自己还不行\n陌生人则轻很多\n那份帮助来得干净，没有历史包袱，也没有后续的牵扯\n可以安心收下，然后说声谢谢，各自继续往前走\n所以棠常对父母说“我自己来”，却对陌生人说“谢谢”"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当遇到问题时，即使可以让父母来帮助，棠也想自己来处理，所以希望他们别插手\n不是不感激，只是那种被“照顾”的感觉，带着一点沉\n如果是陌生人伸出援手，棠反而会松一口气，甚至觉得挺好的，因为不用担心后面会连着什么\n\n对父母的帮助，棠容易下意识拒绝；对陌生人的善意，却能自然地接受并心怀谢意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2076784267372429609",
+        "created_at": "2026-07-13T21:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T22:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076784267372429609"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076784267372429609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "当遇到问题时，即使可以让父母来帮助，棠也想自己来处理，所以希望他们别插手\n不是不感激，只是那种被“照顾”的感觉，带着一点沉\n如果是陌生人伸出援手，棠反而会松一口气，甚至觉得挺好的，因为不用担心后面会连着什么\n\n对父母的帮助，棠容易下意识拒绝；对陌生人的善意，却能自然地接受并心怀谢意\n这不是爱不爱的问题\n只是父母的帮助，从来不是单纯的“帮一下”\n它后面连着太多的担心、太多的期待，还有棠自己不想成为“那个需要被操心的人”的倔强\n接受这个帮助，就等于承认自己还不行\n陌生人则轻很多\n那份帮助来得干净，没有历史包袱，也没有后续的牵扯\n可以安心收下，然后说声谢谢，各自继续往前走\n所以棠常对父母说“我自己来”，却对陌生人说“谢谢”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当遇到问题时，即使可以让父母来帮助，棠也想自己来处理，所以希望他们别插手\n不是不感激，只是那种被“照顾”的感觉，带着一点沉\n如果是陌生人伸出援手，棠反而会松一口气，甚至觉得挺好的，因为不用担心后面会连着什么\n\n对父母的帮助，棠容易下意识拒绝；对陌生人的善意，却能自然地接受并心怀谢意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2384,
+          "following_count": 249,
+          "like_count": 9035,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 637
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

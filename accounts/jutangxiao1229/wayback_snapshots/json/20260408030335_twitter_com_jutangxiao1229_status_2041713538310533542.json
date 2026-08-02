@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2041713538310533542",
+    "created_at": "2026-04-08T03:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T04:03:06.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041713417002844442",
+      "2041713538310533542"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ddon_gkku_meon…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/ddon_gkku_meong/status/2041156338953367795",
+          "start": 37,
+          "url": "https://t.co/R4TmARDhoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041713538310533542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041156338953367795",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被问的最多的就是“钱还够吗？”“钱不够跟我说。”“要不要给你转点？”(笑 https://t.co/R4TmARDhoa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2041713417002844442",
+        "created_at": "2026-04-08T03:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T04:03:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041713417002844442",
+          "2041713538310533542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ddon_gkku_meon…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/ddon_gkku_meong/status/2041156338953367795",
+              "start": 35,
+              "url": "https://t.co/R4TmARDhoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041713417002844442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041156338953367795",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被问的最多的就是“钱还够吗？”“钱不够跟我说”“要不要给你转点”(笑 https://t.co/R4TmARDhoa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2041713538310533542",
+        "created_at": "2026-04-08T03:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T04:03:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041713417002844442",
+          "2041713538310533542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ddon_gkku_meon…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/ddon_gkku_meong/status/2041156338953367795",
+              "start": 37,
+              "url": "https://t.co/R4TmARDhoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041713538310533542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041156338953367795",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被问的最多的就是“钱还够吗？”“钱不够跟我说。”“要不要给你转点？”(笑 https://t.co/R4TmARDhoa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016900028246499328",
+        "conversation_id": "2041156338953367795",
+        "created_at": "2026-04-06T14:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041156338953367795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/book_i0007/sta…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/book_i0007/status/2040976356977320337",
+              "start": 150,
+              "url": "https://t.co/DiDpVhW2Dd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041156338953367795",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1202,
+          "impression_count": 1940649,
+          "like_count": 26200,
+          "quote_count": 2883,
+          "reply_count": 8,
+          "retweet_count": 5051
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040976356977320337",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "아빠 나 마라탕 먹고 싶어\nㄴ아빠: 알겠어~ 2만 원 보내놓을게 \n\n아빠 나 올영 가는데..\nㄴ아빠: 뭐 살 건데 만 원이면 돼?\n\n아빠 사랑해\nㄴ10000원이 입금되었습니다  \n\n아빠 뭐해?\nㄴ아빠: 20000원이 입금되었습니다\n\n엄마 나 친구랑 엽ㄸ\nㄴ엄마: ㄲㅈ https://t.co/DiDpVhW2Dd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/可以来找我聊天但是回复很慢/当日记随时删/监护员@fghj87526441",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "fghj87526441"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039212303745421312/yNpBqqWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 98,
+          "like_count": 516,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 123
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-29T15:43:40.000Z",
+        "description": "손으로 글을 쌈. 다꺼졍!!꺼지라고!!씨발!!!!으악!!!!",
+        "id": "2016900028246499328",
+        "name": "동대문엽기떡볶이파티",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017426158183403520/kKOuF9gf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 10,
+          "like_count": 499,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 55
+        },
+        "username": "ddon_gkku_meong",
+        "verified": false
+      }
+    ]
+  }
+}

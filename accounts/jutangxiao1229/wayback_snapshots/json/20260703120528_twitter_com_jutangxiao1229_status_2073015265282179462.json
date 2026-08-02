@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2073015265282179462",
+    "created_at": "2026-07-03T12:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073015265282179462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/jutangxiao",
+          "end": 46,
+          "expanded_url": "https://ngl.link/jutangxiao",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2073014985400385536/3B5M44i1?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2073014985400385536/3B5M44i1?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 23,
+          "status": 200,
+          "title": "@jutangxiao: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/jutangxiao",
+          "url": "https://t.co/CBXCRWsuRe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073015265282179462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "棠也开了提问箱，可以问各种稀奇古怪的问题哦～\nhttps://t.co/CBXCRWsuRe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2073015265282179462",
+        "created_at": "2026-07-03T12:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073015265282179462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/jutangxiao",
+              "end": 46,
+              "expanded_url": "https://ngl.link/jutangxiao",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2073014985400385536/3B5M44i1?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2073014985400385536/3B5M44i1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 23,
+              "status": 200,
+              "title": "@jutangxiao: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/jutangxiao",
+              "url": "https://t.co/CBXCRWsuRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073015265282179462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "棠也开了提问箱，可以问各种稀奇古怪的问题哦～\nhttps://t.co/CBXCRWsuRe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jutangxiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jutangxiao",
+                "start": 0,
+                "url": "https://t.co/DUSIG2aP97"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "pinned_tweet_id": "2072675446513410329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 199,
+          "like_count": 4296,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 447
+        },
+        "url": "https://t.co/DUSIG2aP97",
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

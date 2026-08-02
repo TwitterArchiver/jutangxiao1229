@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2073985714845549001",
+    "created_at": "2026-07-06T06:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T07:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074010880652783866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1928097562189516806",
+          "start": 0,
+          "username": "Tang09928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074010880652783866",
+    "in_reply_to_user_id": "1928097562189516806",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074002235978346691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tang09928 (˵&gt;ㅿ&lt;˵)♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2073985714845549001",
+        "created_at": "2026-07-06T06:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074010880652783866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1928097562189516806",
+              "start": 0,
+              "username": "Tang09928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074010880652783866",
+        "in_reply_to_user_id": "1928097562189516806",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074002235978346691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tang09928 (˵&gt;ㅿ&lt;˵)♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928097562189516806",
+        "conversation_id": "2073985714845549001",
+        "created_at": "2026-07-06T05:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074002235978346691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074002235978346691",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073985714845549001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 来了来了😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jutangxiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jutangxiao",
+                "start": 0,
+                "url": "https://t.co/DUSIG2aP97"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 208,
+          "like_count": 5312,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 510
+        },
+        "url": "https://t.co/DUSIG2aP97",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-29T14:34:28.000Z",
+        "description": "分享日常,喜欢小江南的可以私信入门哦o(^▽^)o",
+        "id": "1928097562189516806",
+        "location": "188/520🚪，仅支持口令",
+        "name": "江南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953954770886230017/TzEZk2MZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 790,
+          "like_count": 1554,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2235
+        },
+        "url": "",
+        "username": "Tang09928",
+        "verified": false
+      }
+    ]
+  }
+}

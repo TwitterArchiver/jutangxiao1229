@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2078805144402276442",
+    "created_at": "2026-07-19T23:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T00:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078985254233358401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "Easter_buny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078985254233358401",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078980907344810033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Easter_buny 预充式肝素"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2078805144402276442",
+        "created_at": "2026-07-19T23:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078985254233358401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078985254233358401",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078980907344810033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 预充式肝素"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2078805144402276442",
+        "created_at": "2026-07-19T23:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078980907344810033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078980907344810033",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078805144402276442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 这个是什么型号的注射器，看着很棒！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2391,
+          "following_count": 249,
+          "like_count": 10906,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 673
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8411,
+          "following_count": 1264,
+          "like_count": 67111,
+          "listed_count": 8,
+          "media_count": 3103,
+          "tweet_count": 19173
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      }
+    ]
+  }
+}

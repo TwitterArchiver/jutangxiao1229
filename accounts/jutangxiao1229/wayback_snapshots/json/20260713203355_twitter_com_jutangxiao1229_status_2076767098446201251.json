@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2076665636978360653",
+    "created_at": "2026-07-13T20:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T21:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076767098446201251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1856564264271548416",
+          "start": 0,
+          "username": "256Huang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076767098446201251",
+    "in_reply_to_user_id": "1856564264271548416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076680339305742484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@256Huang 进水不保😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2076665636978360653",
+        "created_at": "2026-07-13T20:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T21:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076767098446201251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1856564264271548416",
+              "start": 0,
+              "username": "256Huang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076767098446201251",
+        "in_reply_to_user_id": "1856564264271548416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076680339305742484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@256Huang 进水不保😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856564264271548416",
+        "conversation_id": "2076665636978360653",
+        "created_at": "2026-07-13T14:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076680339305742484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076680339305742484",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076665636978360653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 没有保修吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2384,
+          "following_count": 249,
+          "like_count": 9000,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 635
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-13T05:06:41.000Z",
+        "description": "一个拥抱多少钱？！",
+        "id": "1856564264271548416",
+        "name": "苯苯海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023099536059826176/srt4qC32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 109,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 621
+        },
+        "url": "",
+        "username": "256Huang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2075552910730260693",
+    "created_at": "2026-07-10T12:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T13:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075564244834435098"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075564244834435098",
+    "in_reply_to_user_id": "1845076547197353984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075552910730260693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有小伙伴私信提到：外层速释包衣会提供初始剂量～补充一下₊⁺♡‌₊⁺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1293,
+        "media_key": "3_2075552899837665281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3YXZtbIAER-8k.jpg",
+        "width": 2048
+      },
+      {
+        "height": 752,
+        "media_key": "3_2075552902425518080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3YXjWaoAAYI4B.jpg",
+        "width": 1360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2075552910730260693",
+        "created_at": "2026-07-10T12:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075564244834435098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075564244834435098",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075552910730260693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有小伙伴私信提到：外层速释包衣会提供初始剂量～补充一下₊⁺♡‌₊⁺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075552899837665281",
+            "3_2075552902425518080"
+          ]
+        },
+        "author_id": "1845076547197353984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075552910730260693",
+        "created_at": "2026-07-10T12:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075552910730260693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rhMaHeHeGx",
+              "end": 166,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2075552910730260693/photo/1",
+              "media_key": "3_2075552899837665281",
+              "start": 143,
+              "url": "https://t.co/rhMaHeHeGx"
+            },
+            {
+              "display_url": "pic.x.com/rhMaHeHeGx",
+              "end": 166,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2075552910730260693/photo/1",
+              "media_key": "3_2075552902425518080",
+              "start": 143,
+              "url": "https://t.co/rhMaHeHeGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075552910730260693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 226,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哌甲酯缓释结构～\n释放口通常位于药物层一端（白色端）\n助推层（左）膨胀后，将药物层向右推出\n先释放：靠近释放口的白色含药层（浓度相对较低）→ 提供初期较平稳的释放\n后释放：中间的黄色含药层（浓度更高）→ 当助推力更强、白色层逐渐耗尽后被推出，提供更高的释放速率\n៷&gt;ᴗ&lt;៷ https://t.co/rhMaHeHeGx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "pinned_tweet_id": "2075215777553408355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2159,
+          "following_count": 244,
+          "like_count": 7273,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 603
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

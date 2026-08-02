@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2076569970406990253",
+    "created_at": "2026-07-13T09:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T10:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076594582691934720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2009506605285670912",
+          "start": 0,
+          "username": "L315428"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076594582691934720",
+    "in_reply_to_user_id": "2009506605285670912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076586077893345792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L315428 原研还是有的(虽然现在仿制药确实多)～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2076569970406990253",
+        "created_at": "2026-07-13T09:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076594582691934720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2009506605285670912",
+              "start": 0,
+              "username": "L315428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076594582691934720",
+        "in_reply_to_user_id": "2009506605285670912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076586077893345792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L315428 原研还是有的(虽然现在仿制药确实多)～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009506605285670912",
+        "conversation_id": "2076569970406990253",
+        "created_at": "2026-07-13T08:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076586077893345792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076586077893345792",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076569970406990253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 现在不是买不到了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2181,
+          "following_count": 249,
+          "like_count": 8696,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 633
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-09T06:04:58.000Z",
+        "description": "今朝有酒今朝醉，明日愁来明日愁",
+        "id": "2009506605285670912",
+        "location": "武陵",
+        "name": "寂斿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031944365443301376/GiiSQHqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 238,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "L315428",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055217043453161472"
+      ]
+    },
+    "author_id": "1845076547197353984",
+    "conversation_id": "2055217045592232175",
+    "created_at": "2026-05-15T09:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T10:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055217045592232175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oIKkNdxKfM",
+          "end": 50,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2055217045592232175/photo/1",
+          "media_key": "3_2055217043453161472",
+          "start": 27,
+          "url": "https://t.co/oIKkNdxKfM"
+        },
+        {
+          "display_url": "x.com/jutangxiao1229…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/jutangxiao1229/status/2054745449152844017",
+          "start": 51,
+          "url": "https://t.co/ooOxEUm72n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055217045592232175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054745449152844017",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "果然不能随便立flag，今天测心电图就翻车了\nᴗ.ᴗ https://t.co/oIKkNdxKfM https://t.co/ooOxEUm72n"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055217045592232175].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055217045592232175",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055217045592232175"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 347,
+        "media_key": "3_2055217043453161472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWZAxNasAA0ypl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2146,
+        "media_key": "3_2054745438377684993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIPsFvZbMAEpQ5O.jpg",
+        "width": 968
+      },
+      {
+        "height": 263,
+        "media_key": "3_2054745439048753152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIPsFx5a4AAx3is.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054745438377684993",
+            "3_2054745439048753152"
+          ]
+        },
+        "author_id": "1845076547197353984",
+        "conversation_id": "2054745449152844017",
+        "created_at": "2026-05-14T02:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T03:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054745449152844017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oLdTVA0gkC",
+              "end": 55,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2054745449152844017/photo/1",
+              "media_key": "3_2054745438377684993",
+              "start": 32,
+              "url": "https://t.co/oLdTVA0gkC"
+            },
+            {
+              "display_url": "pic.x.com/oLdTVA0gkC",
+              "end": 55,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2054745449152844017/photo/1",
+              "media_key": "3_2054745439048753152",
+              "start": 32,
+              "url": "https://t.co/oLdTVA0gkC"
+            },
+            {
+              "display_url": "x.com/jutangxiao1229…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/jutangxiao1229/status/2054479605634134104",
+              "start": 56,
+              "url": "https://t.co/qmmciMVk3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054745449152844017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054479605634134104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然棠平时药吃的超级多，但是似乎保养的还不错\n(ˆつ⩊⊂ˆ)੭ https://t.co/oLdTVA0gkC https://t.co/qmmciMVk3G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 209,
+          "like_count": 3714,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 373
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

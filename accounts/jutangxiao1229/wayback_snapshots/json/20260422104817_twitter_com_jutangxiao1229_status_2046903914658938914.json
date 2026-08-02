@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2046867864360280531",
+    "created_at": "2026-04-22T10:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T11:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046903914658938914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1305129071563534337",
+          "start": 0,
+          "username": "Ikyozi_SiYou"
+        },
+        {
+          "end": 30,
+          "id": "1596405792315691008",
+          "start": 14,
+          "username": "0502railgun1949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046903914658938914",
+    "in_reply_to_user_id": "1305129071563534337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046902503481221200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ikyozi_SiYou @0502railgun1949 文拉法辛低剂量几乎也是ssri的作用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2046867864360280531",
+        "created_at": "2026-04-22T10:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046903914658938914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1305129071563534337",
+              "start": 0,
+              "username": "Ikyozi_SiYou"
+            },
+            {
+              "end": 30,
+              "id": "1596405792315691008",
+              "start": 14,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046903914658938914",
+        "in_reply_to_user_id": "1305129071563534337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046902503481221200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ikyozi_SiYou @0502railgun1949 文拉法辛低剂量几乎也是ssri的作用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1305129071563534337",
+        "conversation_id": "2046867864360280531",
+        "created_at": "2026-04-22T10:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046902503481221200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046902503481221200",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046887877309771848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 吃一天就有那种ssri带来的不好的感觉了，不打算继续往下走了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员@fghj87526441",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 86,
+                "username": "fghj87526441"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 91,
+          "like_count": 1247,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 164
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-13T13:00:03.000Z",
+        "description": "明月入怀，载月明归。｜似盈｜思柚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ikyozi_cn",
+                "end": 23,
+                "expanded_url": "https://t.me/ikyozi_cn",
+                "start": 0,
+                "url": "https://t.co/RpEkndCDmL"
+              }
+            ]
+          }
+        },
+        "id": "1305129071563534337",
+        "location": "Tientsin, CN",
+        "name": "IKYoZi",
+        "pinned_tweet_id": "2013471342176412033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005506390421573632/tAe2uaNb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 378,
+          "like_count": 10111,
+          "listed_count": 5,
+          "media_count": 122,
+          "tweet_count": 909
+        },
+        "url": "https://t.co/RpEkndCDmL",
+        "username": "Ikyozi_SiYou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/uYAsutqU3H"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 675,
+          "like_count": 13357,
+          "listed_count": 3,
+          "media_count": 1345,
+          "tweet_count": 10593
+        },
+        "url": "https://t.co/uYAsutqU3H",
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

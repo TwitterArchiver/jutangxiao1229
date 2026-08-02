@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2072323573277200658",
+    "created_at": "2026-07-02T11:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072641625298489643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2015327705030656000",
+          "start": 0,
+          "username": "chisato_ot98920"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072641625298489643",
+    "in_reply_to_user_id": "2015327705030656000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072323573277200658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chisato_ot98920 やっぱり言わないだけだと思います\n現実でカミングアウトすると、リスクの方が遥かに大きいですからね…\n健常者からの精神疾患への差別や偏見って、まだ結構ハッキリしてるし、自衛のために隠してる人が多いんじゃないでしょうか◔̯◔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2072323573277200658",
+        "created_at": "2026-07-02T11:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072641625298489643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2015327705030656000",
+              "start": 0,
+              "username": "chisato_ot98920"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072641625298489643",
+        "in_reply_to_user_id": "2015327705030656000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072323573277200658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chisato_ot98920 やっぱり言わないだけだと思います\n現実でカミングアウトすると、リスクの方が遥かに大きいですからね…\n健常者からの精神疾患への差別や偏見って、まだ結構ハッキリしてるし、自衛のために隠してる人が多いんじゃないでしょうか◔̯◔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015327705030656000",
+        "conversation_id": "2072323573277200658",
+        "created_at": "2026-07-01T14:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072323573277200658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072323573277200658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 55296,
+          "like_count": 1026,
+          "quote_count": 32,
+          "reply_count": 47,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "Xではうつ病や双極抱えた人めちゃくちゃいるのにリアルではほとんど会ったことない。言わないだけかな？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 183,
+          "like_count": 4043,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 417
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T07:36:21.000Z",
+        "description": "不定期漫画更新。精神疾患（うつ病）を持つお絵描き好き主婦のつぶやき。産後うつからうつ病へ。手帳3級。株クラ。漫画まとめ読み→https://t.co/XGnBvFYwHl\nLINEスタンプ→https://t.co/jMHAiYmHbh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/dp/B0GT9QNL6S",
+                "end": 85,
+                "expanded_url": "https://www.amazon.co.jp/dp/B0GT9QNL6S",
+                "start": 62,
+                "url": "https://t.co/XGnBvFYwHl"
+              },
+              {
+                "display_url": "line.me/S/sticker/3420…",
+                "end": 118,
+                "expanded_url": "https://line.me/S/sticker/34207245",
+                "start": 95,
+                "url": "https://t.co/jMHAiYmHbh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/utuchiiiii",
+                "end": 23,
+                "expanded_url": "https://note.com/utuchiiiii",
+                "start": 0,
+                "url": "https://t.co/4Og5iMCwX5"
+              }
+            ]
+          }
+        },
+        "id": "2015327705030656000",
+        "name": "ちい",
+        "pinned_tweet_id": "2055534268949139950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025452767884836865/1j9_e33P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 226,
+          "like_count": 11042,
+          "listed_count": 10,
+          "media_count": 469,
+          "tweet_count": 3344
+        },
+        "url": "https://t.co/4Og5iMCwX5",
+        "username": "chisato_ot98920",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2051439568524878147",
+    "created_at": "2026-05-05T11:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T12:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051629881713369299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        },
+        {
+          "end": 16,
+          "id": "1968368047988817923",
+          "start": 9,
+          "username": "ckyoa2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051629881713369299",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051628321545597189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo @ckyoa2 超喜欢这样的糯米～"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2051628321545597189].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2051628321545597189",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2051628321545597189"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2051439568524878147",
+        "created_at": "2026-05-05T11:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051629881713369299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            },
+            {
+              "end": 16,
+              "id": "1968368047988817923",
+              "start": 9,
+              "username": "ckyoa2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051629881713369299",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051628321545597189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo @ckyoa2 超喜欢这样的糯米～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 136,
+          "like_count": 2195,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 240
+        },
+        "username": "jutangxiao1229",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "【锁推期间仅通过同类请求】糯米守护互关们(っ˘зʕ•̫͡•ʔ纯血精神病-喜欢推文互动讨厌私信闲聊！评论互动会查成分回fo！随缘查fo列成分回w♡喜欢sex & drug @Numiouo1备用♡除推文外 不提供咨询解答⚠️请勿私信⚠️我素non-binary我友全部🏳️‍🌈🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "Numiouo1"
+              }
+            ]
+          }
+        },
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ（2.0禁言中",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3438,
+          "following_count": 2351,
+          "like_count": 10492,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 8590
+        },
+        "username": "Numiouo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T17:34:58.000Z",
+        "description": "只是分享生活",
+        "id": "1968368047988817923",
+        "location": "🚪188",
+        "name": "ck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049487138509774849/xVB5Hbzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3223,
+          "following_count": 4,
+          "like_count": 120,
+          "listed_count": 9,
+          "media_count": 26,
+          "tweet_count": 59
+        },
+        "username": "ckyoa2",
+        "verified": false
+      }
+    ]
+  }
+}

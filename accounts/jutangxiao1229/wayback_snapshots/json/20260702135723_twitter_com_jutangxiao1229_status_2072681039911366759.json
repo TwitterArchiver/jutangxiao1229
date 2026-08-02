@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2072675446513410329",
+    "created_at": "2026-07-02T13:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T14:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072681039911366759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1462208415837655043",
+          "start": 0,
+          "username": "Prechaska"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072681039911366759",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072677948214354356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prechaska b的心理咨询是保外的，之前也是精神科医生转的，价格在2000¥/50min，不过大概率还是去试试，毕竟能拿掉双相的诊断也不错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2072675446513410329",
+        "created_at": "2026-07-02T13:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072681039911366759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072681039911366759",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072677948214354356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska b的心理咨询是保外的，之前也是精神科医生转的，价格在2000¥/50min，不过大概率还是去试试，毕竟能拿掉双相的诊断也不错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2072675446513410329",
+        "created_at": "2026-07-02T13:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072677948214354356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072677948214354356",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072675446513410329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 看起来b几乎能解决所有的问题（？如果心理治疗是心理咨询，期间还能治别的的话，还是b更赚些吧🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 185,
+          "like_count": 4099,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 427
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 149,
+          "like_count": 3603,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1757
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

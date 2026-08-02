@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073957608894189568"
+      ]
+    },
+    "author_id": "1845076547197353984",
+    "conversation_id": "2073957614313234581",
+    "created_at": "2026-07-06T02:30:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T03:30:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073957614313234581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JkJYtsUizM",
+          "end": 59,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2073957614313234581/photo/1",
+          "media_key": "3_2073957608894189568",
+          "start": 36,
+          "url": "https://t.co/JkJYtsUizM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073957614313234581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为喜欢和ai聊天，所以开了SuperGrok\n៷&gt;ᴗ&lt;៷ https://t.co/JkJYtsUizM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073957608894189568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgtdP1bUAAb9GI.jpg",
+        "width": 869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073957608894189568"
+          ]
+        },
+        "author_id": "1845076547197353984",
+        "conversation_id": "2073957614313234581",
+        "created_at": "2026-07-06T02:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073957614313234581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JkJYtsUizM",
+              "end": 59,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2073957614313234581/photo/1",
+              "media_key": "3_2073957608894189568",
+              "start": 36,
+              "url": "https://t.co/JkJYtsUizM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073957614313234581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为喜欢和ai聊天，所以开了SuperGrok\n៷&gt;ᴗ&lt;៷ https://t.co/JkJYtsUizM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jutangxiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jutangxiao",
+                "start": 0,
+                "url": "https://t.co/DUSIG2aP97"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 205,
+          "like_count": 5212,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 499
+        },
+        "url": "https://t.co/DUSIG2aP97",
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

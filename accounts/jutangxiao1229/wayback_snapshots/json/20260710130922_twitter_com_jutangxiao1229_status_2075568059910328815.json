@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2073985714845549001",
+    "created_at": "2026-07-10T13:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075568059910328815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621920958788542465",
+          "start": 0,
+          "username": "xiangsaixue23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075568059910328815",
+    "in_reply_to_user_id": "1621920958788542465",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075444951761277108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangsaixue23 ˶&gt;ᗜ&lt;˶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2073985714845549001",
+        "created_at": "2026-07-10T13:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075568059910328815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621920958788542465",
+              "start": 0,
+              "username": "xiangsaixue23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075568059910328815",
+        "in_reply_to_user_id": "1621920958788542465",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075444951761277108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangsaixue23 ˶&gt;ᗜ&lt;˶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621920958788542465",
+        "conversation_id": "2073985714845549001",
+        "created_at": "2026-07-10T05:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075444951761277108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075444951761277108",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073985714845549001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 你。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "pinned_tweet_id": "2073985714845549001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2159,
+          "following_count": 244,
+          "like_count": 7302,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 604
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-04T17:17:58.000Z",
+        "description": "",
+        "id": "1621920958788542465",
+        "name": "shizhixiangsheng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722322260122583040/k1PJjDxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 271,
+          "like_count": 2335,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 4024
+        },
+        "url": "",
+        "username": "xiangsaixue23",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2052635728950300872",
+    "created_at": "2026-05-08T07:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052653032253616431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1249607798221967360",
+          "start": 0,
+          "username": "57ame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052653032253616431",
+    "in_reply_to_user_id": "1249607798221967360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052635731911467344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@57ame 生きててくれて本当に良かった。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2052635728950300872",
+        "created_at": "2026-05-08T07:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052653032253616431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1249607798221967360",
+              "start": 0,
+              "username": "57ame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052653032253616431",
+        "in_reply_to_user_id": "1249607798221967360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052635731911467344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@57ame 生きててくれて本当に良かった。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1249607798221967360",
+        "conversation_id": "2052635728950300872",
+        "created_at": "2026-05-08T06:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052635731911467344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052635731911467344",
+        "in_reply_to_user_id": "1249607798221967360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4890,
+          "like_count": 142,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052635728950300872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今朝意識を取り戻したら全身点滴状態で、どうやら昨日暴れて強制的に鎮静剤で眠りに着いたようで、他にもいろいろあって、よく分からないんですけど、\n未熟者の命を心配してくださった方々本当にありがとうございます。\nみんなが助けてくれた命なので、これからは全員の分背負って生きたいと思います。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 156,
+          "like_count": 2619,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 276
+        },
+        "username": "jutangxiao1229",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T07:58:22.000Z",
+        "description": "つゆりです（╹◡╹）\n\nサブ　@sgw_ghost\n働　@szm8_bot\n　　https://t.co/EV9BLgvF6b",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "sgw_ghost"
+              },
+              {
+                "end": 37,
+                "start": 28,
+                "username": "szm8_bot"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/57ame_",
+                "end": 63,
+                "expanded_url": "https://www.instagram.com/57ame_",
+                "start": 40,
+                "url": "https://t.co/EV9BLgvF6b"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "57ame.base.shop",
+                "end": 23,
+                "expanded_url": "http://57ame.base.shop",
+                "start": 0,
+                "url": "https://t.co/rYueIJsshO"
+              }
+            ]
+          }
+        },
+        "id": "1249607798221967360",
+        "name": "5月7日",
+        "pinned_tweet_id": "2051950095789367385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831704718684647426/2T_1dqGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7261,
+          "following_count": 82,
+          "like_count": 12374,
+          "listed_count": 46,
+          "media_count": 520,
+          "tweet_count": 875
+        },
+        "url": "https://t.co/rYueIJsshO",
+        "username": "57ame",
+        "verified": false
+      }
+    ]
+  }
+}

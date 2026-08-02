@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2081256348839526622",
+    "created_at": "2026-07-26T11:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T12:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081347323633041466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827053984521318400",
+          "start": 0,
+          "username": "C_baba_66ccff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081347323633041466",
+    "in_reply_to_user_id": "1827053984521318400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081328179969663397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C_baba_66ccff 我只开到过白色的长条右佐～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2081256348839526622",
+        "created_at": "2026-07-26T11:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081347323633041466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1827053984521318400",
+              "start": 0,
+              "username": "C_baba_66ccff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081347323633041466",
+        "in_reply_to_user_id": "1827053984521318400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081328179969663397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C_baba_66ccff 我只开到过白色的长条右佐～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827053984521318400",
+        "conversation_id": "2081256348839526622",
+        "created_at": "2026-07-26T10:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081328179969663397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081328179969663397",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081256348839526622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 蓝蓝的小药片居然不是右佐匹克隆吗（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2705,
+          "following_count": 248,
+          "like_count": 12063,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 715
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-23T18:43:22.000Z",
+        "description": "MtF🏳️‍⚧️｜持证含糖｜hrt 2025.8.30🍥｜家长党｜小猫｜ISFP｜双相情感障碍｜半夜发癫｜ wota藝初心者｜锦依卫｜洛天依｜停电前夜｜小号@C_baba_tianyi｜可爱猫猫@AGeSang2008喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "C_baba_tianyi"
+              },
+              {
+                "end": 109,
+                "start": 97,
+                "username": "AGeSang2008"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/C_baba_ty0712",
+                "end": 23,
+                "expanded_url": "https://telegram.me/C_baba_ty0712",
+                "start": 0,
+                "url": "https://t.co/FJeTQJpxIy"
+              }
+            ]
+          }
+        },
+        "id": "1827053984521318400",
+        "location": "距你2km",
+        "name": "C_baba🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2020509877383393497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004745444769828864/6JWhaSvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 977,
+          "like_count": 26132,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 611
+        },
+        "url": "https://t.co/FJeTQJpxIy",
+        "username": "C_baba_66ccff",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081609775352352768",
+        "3_2081609813482762241"
+      ]
+    },
+    "author_id": "1845076547197353984",
+    "conversation_id": "2081609824400449691",
+    "created_at": "2026-07-27T05:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T06:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081609824400449691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lecb0kFHzU",
+          "end": 83,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2081609824400449691/photo/1",
+          "media_key": "3_2081609775352352768",
+          "start": 60,
+          "url": "https://t.co/lecb0kFHzU"
+        },
+        {
+          "display_url": "pic.x.com/lecb0kFHzU",
+          "end": 83,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2081609824400449691/photo/1",
+          "media_key": "3_2081609813482762241",
+          "start": 60,
+          "url": "https://t.co/lecb0kFHzU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081609824400449691",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "向普瑞大人投降了🏳️\n૮⸝⸝o̴̶̷᷄ ·̭ o̴̶̷̥᷅⸝⸝ა\n不过劳拉的颜色真的好好看～\n(ᐡ⦁⩊⦁⸝⸝ᐡ )₊୭ https://t.co/lecb0kFHzU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2081609775352352768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONdD9TbkAAA71P.jpg",
+        "width": 2252
+      },
+      {
+        "height": 1116,
+        "media_key": "3_2081609813482762241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONdGLWbcAEn4dg.jpg",
+        "width": 1342
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081609775352352768",
+            "3_2081609813482762241"
+          ]
+        },
+        "author_id": "1845076547197353984",
+        "conversation_id": "2081609824400449691",
+        "created_at": "2026-07-27T05:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081609824400449691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lecb0kFHzU",
+              "end": 83,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2081609824400449691/photo/1",
+              "media_key": "3_2081609775352352768",
+              "start": 60,
+              "url": "https://t.co/lecb0kFHzU"
+            },
+            {
+              "display_url": "pic.x.com/lecb0kFHzU",
+              "end": 83,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2081609824400449691/photo/1",
+              "media_key": "3_2081609813482762241",
+              "start": 60,
+              "url": "https://t.co/lecb0kFHzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081609824400449691",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "向普瑞大人投降了🏳️\n૮⸝⸝o̴̶̷᷄ ·̭ o̴̶̷̥᷅⸝⸝ა\n不过劳拉的颜色真的好好看～\n(ᐡ⦁⩊⦁⸝⸝ᐡ )₊୭ https://t.co/lecb0kFHzU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2708,
+          "following_count": 249,
+          "like_count": 12077,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 720
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

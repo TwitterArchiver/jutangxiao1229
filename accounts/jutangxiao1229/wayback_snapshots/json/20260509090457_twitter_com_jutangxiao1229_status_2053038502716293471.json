@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053038488036257792"
+      ]
+    },
+    "author_id": "1845076547197353984",
+    "conversation_id": "2053038502716293471",
+    "created_at": "2026-05-09T09:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T10:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053038502716293471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ek9YLeZLSE",
+          "end": 64,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2053038502716293471/photo/1",
+          "media_key": "3_2053038488036257792",
+          "start": 41,
+          "url": "https://t.co/Ek9YLeZLSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053038502716293471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所有自我设置的藩篱都被冲破，除了灾难性的眩晕，奇怪而强大的旋风，什么都没有留下。 https://t.co/Ek9YLeZLSE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053038502716293471].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053038502716293471",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053038502716293471"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053038488036257792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3boJ2bMAAbsxr.jpg",
+        "width": 1566
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 194,
+          "like_count": 2904,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 302
+        },
+        "username": "jutangxiao1229",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2055202460470579548",
+    "created_at": "2026-05-15T08:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T09:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055202671846682698"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055202671846682698",
+    "in_reply_to_user_id": "1845076547197353984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055202460470579548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是没有乐瑞卡了😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055202444901244928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWLvBXaYAATTJC.jpg",
+        "width": 874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2055202460470579548",
+        "created_at": "2026-05-15T08:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055202671846682698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055202671846682698",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055202460470579548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是没有乐瑞卡了😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055202444901244928"
+          ]
+        },
+        "author_id": "1845076547197353984",
+        "conversation_id": "2055202460470579548",
+        "created_at": "2026-05-15T08:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055202460470579548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sjhTMS3565",
+              "end": 31,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2055202460470579548/photo/1",
+              "media_key": "3_2055202444901244928",
+              "start": 8,
+              "url": "https://t.co/sjhTMS3565"
+            },
+            {
+              "display_url": "x.com/jutangxiao1229…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/jutangxiao1229/status/2054479605634134104",
+              "start": 32,
+              "url": "https://t.co/qmmciMVk3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055202460470579548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054479605634134104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有意外收获🥰 https://t.co/sjhTMS3565 https://t.co/qmmciMVk3G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 207,
+          "like_count": 3665,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 368
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

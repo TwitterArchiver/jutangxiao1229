@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2074830535692788067",
+    "created_at": "2026-07-09T03:06:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T04:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075054028682387706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1256757256214818818",
+          "start": 0,
+          "username": "GuimuRena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075054028682387706",
+    "in_reply_to_user_id": "1256757256214818818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074830535692788067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuimuRena 劳拉的颜色真的超级好看～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074830519494447104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtHXVObEAAXUxa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2074830535692788067",
+        "created_at": "2026-07-09T03:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T04:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075054028682387706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1256757256214818818",
+              "start": 0,
+              "username": "GuimuRena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075054028682387706",
+        "in_reply_to_user_id": "1256757256214818818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074830535692788067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuimuRena 劳拉的颜色真的超级好看～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074830519494447104"
+          ]
+        },
+        "author_id": "1256757256214818818",
+        "conversation_id": "2074830535692788067",
+        "created_at": "2026-07-08T12:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074830535692788067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnExuBMf2N",
+              "end": 32,
+              "expanded_url": "https://x.com/GuimuRena/status/2074830535692788067/photo/1",
+              "media_key": "3_2074830519494447104",
+              "start": 9,
+              "url": "https://t.co/AnExuBMf2N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074830535692788067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 294,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已获得50t劳拉 https://t.co/AnExuBMf2N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "pinned_tweet_id": "2073985714845549001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 230,
+          "like_count": 6159,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 582
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-03T01:27:46.000Z",
+        "description": "氿木レナです💬CN JP EN 💊ADHD&双相情感障碍&重度焦虑🎲葛葉激推💕欢迎互fo互转 #地雷女子 #メンヘラ #OD #リスカ #病み垢 #薬物依存症 #ピアス",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "地雷女子"
+              },
+              {
+                "end": 58,
+                "start": 53,
+                "tag": "メンヘラ"
+              },
+              {
+                "end": 62,
+                "start": 59,
+                "tag": "OD"
+              },
+              {
+                "end": 67,
+                "start": 63,
+                "tag": "リスカ"
+              },
+              {
+                "end": 72,
+                "start": 68,
+                "tag": "病み垢"
+              },
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "薬物依存症"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "ピアス"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@xrena_9m?_t=Z…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@xrena_9m?_t=ZS-8yyfizW7cW7&_r=1",
+                "start": 0,
+                "url": "https://t.co/EZHEMbZHJN"
+              }
+            ]
+          }
+        },
+        "id": "1256757256214818818",
+        "location": "天国",
+        "name": "レナ_つ",
+        "pinned_tweet_id": "2034418321878126964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978838203227422720/TcTHSQU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 406,
+          "like_count": 892,
+          "listed_count": 3,
+          "media_count": 308,
+          "tweet_count": 841
+        },
+        "url": "https://t.co/EZHEMbZHJN",
+        "username": "GuimuRena",
+        "verified": false
+      }
+    ]
+  }
+}

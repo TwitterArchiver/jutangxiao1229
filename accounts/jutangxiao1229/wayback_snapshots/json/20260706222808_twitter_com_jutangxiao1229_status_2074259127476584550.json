@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2074235302722547938",
+    "created_at": "2026-07-06T22:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T23:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074259127476584550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445681460497694723",
+          "start": 0,
+          "username": "cryptochenrui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074259127476584550",
+    "in_reply_to_user_id": "1445681460497694723",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074235302722547938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cryptochenrui 🐱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074235290097688576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkqAa7aIAAoDTO.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2074235302722547938",
+        "created_at": "2026-07-06T22:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T23:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074259127476584550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445681460497694723",
+              "start": 0,
+              "username": "cryptochenrui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074259127476584550",
+        "in_reply_to_user_id": "1445681460497694723",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074235302722547938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cryptochenrui 🐱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074235290097688576"
+          ]
+        },
+        "author_id": "1445681460497694723",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074235302722547938",
+        "created_at": "2026-07-06T20:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T21:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074235302722547938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNQyWAXwdQ",
+              "end": 43,
+              "expanded_url": "https://x.com/cryptochenrui/status/2074235302722547938/photo/1",
+              "media_key": "3_2074235290097688576",
+              "start": 20,
+              "url": "https://t.co/tNQyWAXwdQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074235302722547938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽五根烟之后刚好能放下一只一元打火机🐱 https://t.co/tNQyWAXwdQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jutangxiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jutangxiao",
+                "start": 0,
+                "url": "https://t.co/DUSIG2aP97"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "pinned_tweet_id": "2073985714845549001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 210,
+          "like_count": 5476,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 533
+        },
+        "url": "https://t.co/DUSIG2aP97",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-06T09:25:19.000Z",
+        "description": "这里是精神病和嗑药od频道.\n大学退学，农村穷蛆intj。\n笨蛋交易员，亏过七位数。\n欢迎温良边缘人直fo。\n🈲过激健全基本盘男权女权。",
+        "id": "1445681460497694723",
+        "location": "南昌",
+        "name": "relife栗子",
+        "pinned_tweet_id": "2070055196898861129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034259613885796353/B-zmpLFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 282,
+          "like_count": 9693,
+          "listed_count": 5,
+          "media_count": 140,
+          "tweet_count": 2562
+        },
+        "url": "",
+        "username": "cryptochenrui",
+        "verified": false
+      }
+    ]
+  }
+}

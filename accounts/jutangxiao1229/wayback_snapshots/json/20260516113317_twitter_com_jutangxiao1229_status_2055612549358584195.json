@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2055612549358584195",
+    "created_at": "2026-05-16T11:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T12:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055612549358584195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Meru_kz1115/st…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/Meru_kz1115/status/2055305017981374662",
+          "start": 52,
+          "url": "https://t.co/Cf2UcQVdfs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055612549358584195",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055305017981374662",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "白い部分の主成分ってイブプロフェンとエテンザミドじゃないですか？ どうやらODには向かないみたいですね https://t.co/Cf2UcQVdfs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1852,
+        "media_key": "3_2055305014596513792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXpBXQasAAHJWT.jpg",
+        "width": 2055
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2055612549358584195",
+        "created_at": "2026-05-16T11:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055612549358584195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Meru_kz1115/st…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/Meru_kz1115/status/2055305017981374662",
+              "start": 52,
+              "url": "https://t.co/Cf2UcQVdfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055612549358584195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055305017981374662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "白い部分の主成分ってイブプロフェンとエテンザミドじゃないですか？ どうやらODには向かないみたいですね https://t.co/Cf2UcQVdfs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055305014596513792"
+          ]
+        },
+        "author_id": "2012554302070394880",
+        "conversation_id": "2055305017981374662",
+        "created_at": "2026-05-15T15:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055305017981374662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dMBbllPZNZ",
+              "end": 29,
+              "expanded_url": "https://x.com/Meru_kz1115/status/2055305017981374662/photo/1",
+              "media_key": "3_2055305014596513792",
+              "start": 6,
+              "url": "https://t.co/dMBbllPZNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055305017981374662",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1050,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "右ん36t https://t.co/dMBbllPZNZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2176,
+          "following_count": 221,
+          "like_count": 3865,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 386
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-17T15:55:26.000Z",
+        "description": "不注意￤ADHD￤病み￤💊￤                                                いちばん࣪ 𑊢♡@bApKvDByT255564￤                                避難垢@gomi_tamari_od￤ 鍵🗝@zzz_nemuchi123￤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 70,
+                "username": "bApKvDByT255564"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "gomi_tamari_od"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "zzz_nemuchi123"
+              }
+            ]
+          }
+        },
+        "id": "2012554302070394880",
+        "location": "5/14",
+        "name": "クズみゃ𐔌˙.",
+        "pinned_tweet_id": "2054556084686455294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035033806596710403/i7_FUvA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 480,
+          "like_count": 20499,
+          "listed_count": 29,
+          "media_count": 73,
+          "tweet_count": 1973
+        },
+        "username": "Meru_kz1115",
+        "verified": false
+      }
+    ]
+  }
+}

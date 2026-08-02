@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2041309191361663274",
+    "created_at": "2026-04-07T07:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T08:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041419190469542037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1568430640428875776",
+          "start": 0,
+          "username": "YesStrayPuppy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041419190469542037",
+    "in_reply_to_user_id": "1568430640428875776",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041371894461669725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesStrayPuppy Oᴗoಣ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2041309191361663274",
+        "created_at": "2026-04-07T07:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041419190469542037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1568430640428875776",
+              "start": 0,
+              "username": "YesStrayPuppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041419190469542037",
+        "in_reply_to_user_id": "1568430640428875776",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041371894461669725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesStrayPuppy Oᴗoಣ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568430640428875776",
+        "conversation_id": "2041309191361663274",
+        "created_at": "2026-04-07T04:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041371894461669725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041371894461669725",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041309191361663274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 祝你天天开心！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/可以来找我聊天但是回复很慢/当日记随时删/监护员@fghj87526441",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "fghj87526441"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039212303745421312/yNpBqqWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 95,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 95
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-10T02:46:49.000Z",
+        "description": "08巨蟹enfp|好朋友👾https://t.co/WyEuIlIItL👬|鲁路修·v·布里塔尼亚下令，世界将臣服于我！|可以叫我小夜💭！|记录(辱骂)📝高三生活中。。|恶俗之人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/hown530150?s=20",
+                "end": 36,
+                "expanded_url": "https://x.com/hown530150?s=20",
+                "start": 13,
+                "url": "https://t.co/WyEuIlIItL"
+              }
+            ]
+          }
+        },
+        "id": "1568430640428875776",
+        "location": "天天转贴的同人女",
+        "name": "看见我喊我去学习",
+        "pinned_tweet_id": "2022157892942729459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004823690333356037/nLjdnVKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 497,
+          "like_count": 23015,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 6635
+        },
+        "username": "YesStrayPuppy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-10T02:46:49.000Z",
+        "description": "08巨蟹enfp|好朋友👾https://t.co/WyEuIlIItL👬|鲁路修·v·布里塔尼亚下令，世界将臣服于我！|可以叫我小夜💭！|记录(辱骂)📝高三生活中。。|恶俗之人。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/hown530150?s=20",
+                "end": 36,
+                "expanded_url": "https://x.com/hown530150?s=20",
+                "start": 13,
+                "url": "https://t.co/WyEuIlIItL"
+              }
+            ]
+          }
+        },
+        "id": "1568430640428875776",
+        "location": "天天转贴的同人女",
+        "name": "看见我喊我去学习",
+        "pinned_tweet_id": "2022157892942729459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004823690333356037/nLjdnVKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 497,
+          "like_count": 23015,
+          "listed_count": 2,
+          "media_count": 536,
+          "tweet_count": 6635
+        },
+        "username": "YesStrayPuppy",
+        "verified": false
+      }
+    ]
+  }
+}

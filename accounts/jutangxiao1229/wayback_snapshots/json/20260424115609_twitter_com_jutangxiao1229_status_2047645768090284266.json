@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2047644095741665488",
+    "created_at": "2026-04-24T11:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T12:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047645768090284266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1989965282799226880",
+          "start": 0,
+          "username": "DQadopt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047645768090284266",
+    "in_reply_to_user_id": "1989965282799226880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047644095741665488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DQadopt 我之前漏服是超强的胃肠道反应，喝水都干呕ᴗ.ᴗ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047644080260431872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqxcS5awAAGwiO.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2047644095741665488",
+        "created_at": "2026-04-24T11:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047645768090284266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989965282799226880",
+              "start": 0,
+              "username": "DQadopt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047645768090284266",
+        "in_reply_to_user_id": "1989965282799226880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047644095741665488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DQadopt 我之前漏服是超强的胃肠道反应，喝水都干呕ᴗ.ᴗ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047644080260431872"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2047644095741665488",
+        "created_at": "2026-04-24T11:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047644095741665488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/psrJGxqtPN",
+              "end": 169,
+              "expanded_url": "https://x.com/DQadopt/status/2047644095741665488/photo/1",
+              "media_key": "3_2047644080260431872",
+              "start": 146,
+              "url": "https://t.co/psrJGxqtPN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047644095741665488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一晚没吃文拉法辛，戒断反应下午很严重，外地开车回来的时候那种滞后感又来了，开到一半开不下去喊同事开，人在前进另一个自己在前一帧，每隔一会大脑感觉在被轻轻地搅拌，刚刚紧急去快递站拿了回来吃150mg的时候手都在抖，现在躺床上等药效，睡前再吃150mg\n离了精品神药的神经递质支撑就魂不守舍之人 https://t.co/psrJGxqtPN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员@fghj87526441",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 86,
+                "username": "fghj87526441"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 84,
+          "like_count": 1347,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 173
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 337,
+          "like_count": 3126,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 3747
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

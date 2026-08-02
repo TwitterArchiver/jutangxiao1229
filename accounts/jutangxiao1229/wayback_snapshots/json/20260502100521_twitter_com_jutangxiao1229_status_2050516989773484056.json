@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2049128258697146755",
+    "created_at": "2026-05-02T10:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T11:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050516989773484056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1560533329912311808",
+          "start": 0,
+          "username": "BdZzbw6goo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050516989773484056",
+    "in_reply_to_user_id": "1560533329912311808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049128258697146755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BdZzbw6goo2 美金刚居然也能参与联用吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049128245501829120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_3SFRbIAAShSw.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049128245564698624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_3SFgacAAJ0wj.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2049128258697146755",
+        "created_at": "2026-05-02T10:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T11:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050516989773484056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560533329912311808",
+              "start": 0,
+              "username": "BdZzbw6goo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050516989773484056",
+        "in_reply_to_user_id": "1560533329912311808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049128258697146755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BdZzbw6goo2 美金刚居然也能参与联用吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049128245501829120",
+            "3_2049128245564698624"
+          ]
+        },
+        "author_id": "1560533329912311808",
+        "conversation_id": "2049128258697146755",
+        "created_at": "2026-04-28T14:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049128258697146755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vCcC5nKvrS",
+              "end": 28,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2049128258697146755/photo/1",
+              "media_key": "3_2049128245501829120",
+              "start": 5,
+              "url": "https://t.co/vCcC5nKvrS"
+            },
+            {
+              "display_url": "pic.x.com/vCcC5nKvrS",
+              "end": 28,
+              "expanded_url": "https://x.com/BdZzbw6goo2/status/2049128258697146755/photo/1",
+              "media_key": "3_2049128245564698624",
+              "start": 5,
+              "url": "https://t.co/vCcC5nKvrS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049128258697146755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 633,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大杂烩？ https://t.co/vCcC5nKvrS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 125,
+          "like_count": 1896,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 214
+        },
+        "username": "jutangxiao1229",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T07:45:35.000Z",
+        "description": "MTF /HRT since 25.11.16/中重度抑郁/互fo/oder/深柜中（已经出柜了，但是是在偷偷HRT）/ASD",
+        "id": "1560533329912311808",
+        "name": "Lily 🏳️‍⚧️",
+        "pinned_tweet_id": "2036571069851771293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023587572161933312/nuq0npKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 1003,
+          "like_count": 62296,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 551
+        },
+        "username": "BdZzbw6goo2",
+        "verified": true
+      }
+    ]
+  }
+}

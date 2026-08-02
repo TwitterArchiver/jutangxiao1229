@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2054784669582008463",
+    "created_at": "2026-05-14T06:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T07:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054805393700979161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1176077981099446272",
+          "start": 0,
+          "username": "Yesmynamehaer1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054805393700979161",
+    "in_reply_to_user_id": "1176077981099446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054784669582008463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yesmynamehaer1 我这边星状神经阻滞的方案是两三天去一次，总共大概去十次，而且医生说这个效果比较看体质，我就没去体验⪩. .⪨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054784644298752000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQPv01awAAci1H.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054784644294574080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQPv00bAAA-hLY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054784645141757952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQPv3-aAAAVwwS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2054784669582008463",
+        "created_at": "2026-05-14T06:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T07:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054805393700979161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1176077981099446272",
+              "start": 0,
+              "username": "Yesmynamehaer1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054805393700979161",
+        "in_reply_to_user_id": "1176077981099446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054784669582008463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yesmynamehaer1 我这边星状神经阻滞的方案是两三天去一次，总共大概去十次，而且医生说这个效果比较看体质，我就没去体验⪩. .⪨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054784644298752000",
+            "3_2054784644294574080",
+            "3_2054784645141757952"
+          ]
+        },
+        "author_id": "1176077981099446272",
+        "conversation_id": "2054784669582008463",
+        "created_at": "2026-05-14T04:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054784669582008463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YsySIrluTh",
+              "end": 80,
+              "expanded_url": "https://x.com/Yesmynamehaer1/status/2054784669582008463/photo/1",
+              "media_key": "3_2054784644298752000",
+              "start": 57,
+              "url": "https://t.co/YsySIrluTh"
+            },
+            {
+              "display_url": "pic.x.com/YsySIrluTh",
+              "end": 80,
+              "expanded_url": "https://x.com/Yesmynamehaer1/status/2054784669582008463/photo/1",
+              "media_key": "3_2054784644294574080",
+              "start": 57,
+              "url": "https://t.co/YsySIrluTh"
+            },
+            {
+              "display_url": "pic.x.com/YsySIrluTh",
+              "end": 80,
+              "expanded_url": "https://x.com/Yesmynamehaer1/status/2054784669582008463/photo/1",
+              "media_key": "3_2054784645141757952",
+              "start": 57,
+              "url": "https://t.co/YsySIrluTh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054784669582008463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 133,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奥施康定\n非常好非常专业医生，确认神经损伤，偏头痛，非典型三叉神经痛，中枢敏化并建议我打130一针的星状神经阻滞 https://t.co/YsySIrluTh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688,
+          "following_count": 207,
+          "like_count": 3471,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 360
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "我想 | @K1ku21_ @Coccus_Swamer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "K1ku21_"
+              },
+              {
+                "end": 28,
+                "start": 14,
+                "username": "Coccus_Swamer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/noahmilk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/noahmilk",
+                "start": 0,
+                "url": "https://t.co/e5DJElc8tZ"
+              }
+            ]
+          }
+        },
+        "id": "1176077981099446272",
+        "location": "白鳥形人",
+        "name": "Hereditarystupidity #鬼宿三",
+        "pinned_tweet_id": "2003319411953082841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052235062964633600/F1ECdq2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 828,
+          "like_count": 32881,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 3155
+        },
+        "url": "https://t.co/e5DJElc8tZ",
+        "username": "Yesmynamehaer1",
+        "verified": false
+      }
+    ]
+  }
+}

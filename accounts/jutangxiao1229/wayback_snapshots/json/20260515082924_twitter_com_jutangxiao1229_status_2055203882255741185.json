@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2055200388916416563",
+    "created_at": "2026-05-15T08:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T09:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055203882255741185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1847712034361659392",
+          "start": 0,
+          "username": "quanminjihuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055203882255741185",
+    "in_reply_to_user_id": "1847712034361659392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055200388916416563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quanminjihuan 这个看描述就感觉超级难吃〴⋋‸⋌〵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2055200374416703488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWJ2gNbgAAMLmN.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2055200388916416563",
+        "created_at": "2026-05-15T08:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055203882255741185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1847712034361659392",
+              "start": 0,
+              "username": "quanminjihuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055203882255741185",
+        "in_reply_to_user_id": "1847712034361659392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055200388916416563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quanminjihuan 这个看描述就感觉超级难吃〴⋋‸⋌〵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055200374416703488"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2055200388916416563",
+        "created_at": "2026-05-15T08:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055200388916416563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5WoIqbHudj",
+              "end": 123,
+              "expanded_url": "https://x.com/quanminjihuan/status/2055200388916416563/photo/1",
+              "media_key": "3_2055200374416703488",
+              "start": 100,
+              "url": "https://t.co/5WoIqbHudj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055200388916416563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天说说那个口哨糖，其实那个物质三年前鸡哥发过，不过效果不强还会拉肚子就第二天删除了\n勉强最多第二高原吧\n主要是愈创木酚，新康泰克的玉米片 亚邦宁舒的玉米胶囊都是愈创甘油，但是愈创木酚的味道更恶心。 https://t.co/5WoIqbHudj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 207,
+          "like_count": 3671,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 370
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/DF7NTAL0F9 TG交流群：https://t.co/mCh0A9MOrv DC交流群：https://t.co/Zb0fsL464g 提问箱：https://t.co/8eHnljmbAD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/DF7NTAL0F9"
+              },
+              {
+                "display_url": "t.me/yuanliaogeming",
+                "end": 56,
+                "expanded_url": "https://t.me/yuanliaogeming",
+                "start": 33,
+                "url": "https://t.co/mCh0A9MOrv"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/Zb0fsL464g"
+              },
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 114,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 91,
+                "url": "https://t.co/8eHnljmbAD"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "全民极欢百科⚛️",
+        "pinned_tweet_id": "2049742442048696673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 926,
+          "like_count": 24667,
+          "listed_count": 2,
+          "media_count": 406,
+          "tweet_count": 3081
+        },
+        "username": "quanminjihuan",
+        "verified": false
+      }
+    ]
+  }
+}

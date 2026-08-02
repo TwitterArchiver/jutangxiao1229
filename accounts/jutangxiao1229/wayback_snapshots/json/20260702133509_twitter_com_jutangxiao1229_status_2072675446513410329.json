@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2072675445213188096"
+      ]
+    },
+    "author_id": "1845076547197353984",
+    "conversation_id": "2072675446513410329",
+    "created_at": "2026-07-02T13:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T14:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072675446513410329"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072675446513410329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "也是回家了，目前有两个方案\n一个是周一回去继续住(开放式，是否单人随缘)，然后至少把睡眠障碍和药物依赖处理好，治疗方式主要是药物和主任谈话，价格比较便宜\n另一种是换别的医院再走一遍发育史用药史流程，先处理睡眠和情绪问题，每周有一次心理治疗有药物辅助；价格比较高但是有概率能拿掉双相"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-07-03T13:35:09.000Z",
+        "id": "2072675445213188096",
+        "options": [
+          {
+            "label": "去A",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "转B",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2072675445213188096"
+          ]
+        },
+        "author_id": "1845076547197353984",
+        "conversation_id": "2072675446513410329",
+        "created_at": "2026-07-02T13:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072675446513410329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072675446513410329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是回家了，目前有两个方案\n一个是周一回去继续住(开放式，是否单人随缘)，然后至少把睡眠障碍和药物依赖处理好，治疗方式主要是药物和主任谈话，价格比较便宜\n另一种是换别的医院再走一遍发育史用药史流程，先处理睡眠和情绪问题，每周有一次心理治疗有药物辅助；价格比较高但是有概率能拿掉双相"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 185,
+          "like_count": 4095,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 424
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": false
+      }
+    ]
+  }
+}

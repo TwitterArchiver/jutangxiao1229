@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+          "id": "1011352563667558400",
+          "name": "Economic Issues in Japan"
+        }
+      }
+    ],
+    "conversation_id": "2042085136863522837",
+    "created_at": "2026-04-09T03:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T04:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042085136863522837"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chat_noir33/st…",
+          "end": 186,
+          "expanded_url": "https://twitter.com/chat_noir33/status/2041614658373894382",
+          "start": 163,
+          "url": "https://t.co/S9XOhnwT6l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042085136863522837",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041614658373894382",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "1.SRSがゴールになって目標がない  \n2.SRSしてもシス女性との違いに苦しむ \n3.ホルモン変化でよりネガティブな考えにって声が特に多い…もちろん  \n4.思ったよりパスしない  \n5.社会に馴染めない  \n6.ダブルマイノリティに加えて  \n7.SRSで借金をしてしまい、経済的プレッシャーが大き\nいより1-3が多い https://t.co/S9XOhnwT6l"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          }
+        ],
+        "conversation_id": "2042085136863522837",
+        "created_at": "2026-04-09T03:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042085136863522837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chat_noir33/st…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/chat_noir33/status/2041614658373894382",
+              "start": 163,
+              "url": "https://t.co/S9XOhnwT6l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042085136863522837",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041614658373894382",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1.SRSがゴールになって目標がない  \n2.SRSしてもシス女性との違いに苦しむ \n3.ホルモン変化でよりネガティブな考えにって声が特に多い…もちろん  \n4.思ったよりパスしない  \n5.社会に馴染めない  \n6.ダブルマイノリティに加えて  \n7.SRSで借金をしてしまい、経済的プレッシャーが大き\nいより1-3が多い https://t.co/S9XOhnwT6l"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "793662313773400064",
+        "conversation_id": "2041614658373894382",
+        "created_at": "2026-04-07T20:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T21:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041614658373894382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/k_mahlburg/sta…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/k_mahlburg/status/2041501293974585801",
+              "start": 122,
+              "url": "https://t.co/iL0g8CZoMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041614658373894382",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041501293974585801",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "フィンランドでは、国内のすべての性別を自認する思春期の若者を、最長25年間にわたって追跡調査しました。\n\n「性別適合手術」後も、彼らの精神科的ケアの必要性は改善されませんでした。むしろ急増したのです。\n\n画期的な査読済み研究が発表されました。 https://t.co/iL0g8CZoMA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/可以来找我聊天但是回复很慢/当日记随时删/监护员@fghj87526441",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "fghj87526441"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039212303745421312/yNpBqqWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 98,
+          "like_count": 551,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 127
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-02T03:53:35.000Z",
+        "description": "懸賞と情報収集資料置場として使用しているサブ垢なのでフォローしないでね！ フォローしていただいてもリプには一切お応え出来ませんのでご了承下さいm(_ _)m 🔸",
+        "id": "793662313773400064",
+        "location": "公国",
+        "name": "𝖈𝖍𝖆𝖙𝖙𝖊_𝖓𝖔𝖎𝖗𝖊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767538198505508864/2KFqyizE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 242,
+          "like_count": 7698,
+          "listed_count": 1,
+          "media_count": 511,
+          "tweet_count": 52017
+        },
+        "username": "chat_noir33",
+        "verified": false
+      }
+    ]
+  }
+}

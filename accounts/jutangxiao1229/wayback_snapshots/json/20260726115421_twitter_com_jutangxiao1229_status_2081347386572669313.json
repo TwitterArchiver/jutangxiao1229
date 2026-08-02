@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2081256348839526622",
+    "created_at": "2026-07-26T11:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T12:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081347386572669313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1893471239437721600",
+          "start": 0,
+          "username": "aidenljk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081347386572669313",
+    "in_reply_to_user_id": "1893471239437721600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081315400390963464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aidenljk 其实还是阿普唑仑更好(bushi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2081256348839526622",
+        "created_at": "2026-07-26T11:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081347386572669313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1893471239437721600",
+              "start": 0,
+              "username": "aidenljk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081347386572669313",
+        "in_reply_to_user_id": "1893471239437721600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081315400390963464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aidenljk 其实还是阿普唑仑更好(bushi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893471239437721600",
+        "conversation_id": "2081256348839526622",
+        "created_at": "2026-07-26T09:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081315400390963464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081315400390963464",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081256348839526622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 羡慕有氯硝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2705,
+          "following_count": 248,
+          "like_count": 12063,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 716
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-23T01:21:56.000Z",
+        "description": "BPD｜AvPD｜MDD｜secondary school student｜INFP-T｜CPer",
+        "id": "1893471239437721600",
+        "location": "https://t.me/LogicNeko",
+        "name": "Logic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018913728461430785/A-5sGgpO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 36,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 396
+        },
+        "url": "",
+        "username": "aidenljk",
+        "verified": false
+      }
+    ]
+  }
+}

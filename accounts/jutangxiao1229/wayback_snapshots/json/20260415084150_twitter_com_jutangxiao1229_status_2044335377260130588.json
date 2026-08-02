@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2025114546973933840",
+    "created_at": "2026-04-15T08:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T09:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044335377260130588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2025964591222820864",
+          "start": 0,
+          "username": "tang64902"
+        },
+        {
+          "end": 22,
+          "id": "2022153081031733252",
+          "start": 11,
+          "username": "ax09s84751"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044335377260130588",
+    "in_reply_to_user_id": "2025964591222820864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026164645925650687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tang64902 @ax09s84751 现在已经有好几款仿制药了😭还有更贵的口崩片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2025114546973933840",
+        "created_at": "2026-04-15T08:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044335377260130588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2025964591222820864",
+              "start": 0,
+              "username": "tang64902"
+            },
+            {
+              "end": 22,
+              "id": "2022153081031733252",
+              "start": 11,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044335377260130588",
+        "in_reply_to_user_id": "2025964591222820864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026164645925650687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tang64902 @ax09s84751 现在已经有好几款仿制药了😭还有更贵的口崩片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025964591222820864",
+        "conversation_id": "2025114546973933840",
+        "created_at": "2026-02-24T05:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T06:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026164645925650687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022153081031733252",
+              "start": 0,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026164645925650687",
+        "in_reply_to_user_id": "2022153081031733252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025114546973933840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ax09s84751 唑吡坦除了思诺思好像也没别的了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/可以来找我聊天但是回复很慢/当日记随时删/监护员@fghj87526441",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "fghj87526441"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039212303745421312/yNpBqqWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 88,
+          "like_count": 997,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 150
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-23T16:03:53.000Z",
+        "description": "od/精分/请关注塔菲喵",
+        "id": "2025964591222820864",
+        "location": "圣心医院",
+        "name": "御杰宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033682081000443904/eSmtLaaW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 96,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 75
+        },
+        "username": "tang64902",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ/确诊/顺直，zc不od\n精神科钉子户/喜欢超天酱/混mtf/od圈/可能是mtx？？🇨🇳刻进DNA\n对殖蛆执行垃圾回收♻️/手动清理缓存🗑️\n/破防了找超天酱哭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "🇨🇳 中华文明主程序加载点",
+        "name": "Ax09s",
+        "pinned_tweet_id": "2025114546973933840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 693,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 590
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

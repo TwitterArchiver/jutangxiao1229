@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2072986142669177092",
+    "created_at": "2026-07-03T10:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072994963978432589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041449281677045760",
+          "start": 0,
+          "username": "Sorcerer1311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072994963978432589",
+    "in_reply_to_user_id": "2041449281677045760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072986142669177092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sorcerer1311 这家我也超爱，我喜欢柚子拼最浓的抹茶🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072986105734209536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMS54UiboAA_FRc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072986105750880256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMS54UmaAAAFkEI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2072986142669177092",
+        "created_at": "2026-07-03T10:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072994963978432589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072994963978432589",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072986142669177092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 这家我也超爱，我喜欢柚子拼最浓的抹茶🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072986105734209536",
+            "3_2072986105750880256"
+          ]
+        },
+        "author_id": "2041449281677045760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072986142669177092",
+        "created_at": "2026-07-03T10:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072986142669177092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CDSpr1GmO8",
+              "end": 49,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2072986142669177092/photo/1",
+              "media_key": "3_2072986105734209536",
+              "start": 26,
+              "url": "https://t.co/CDSpr1GmO8"
+            },
+            {
+              "display_url": "pic.x.com/CDSpr1GmO8",
+              "end": 49,
+              "expanded_url": "https://x.com/Sorcerer1311/status/2072986142669177092/photo/1",
+              "media_key": "3_2072986105750880256",
+              "start": 26,
+              "url": "https://t.co/CDSpr1GmO8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072986142669177092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃美了\n海盐香草里面是用的香草荚，抹茶粉质量也很高 https://t.co/CDSpr1GmO8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "pinned_tweet_id": "2072675446513410329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 197,
+          "like_count": 4228,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 441
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世被击落， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 873,
+          "like_count": 1586,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 2810
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      }
+    ]
+  }
+}

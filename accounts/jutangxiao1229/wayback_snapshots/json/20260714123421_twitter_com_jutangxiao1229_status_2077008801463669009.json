@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2076993960921509913",
+    "created_at": "2026-07-14T12:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077008801463669009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1305129071563534337",
+          "start": 0,
+          "username": "Ikyozi_SiYou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077008801463669009",
+    "in_reply_to_user_id": "1305129071563534337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077008026100449462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ikyozi_SiYou 听说黛力新副作用和戒断难度都超级大，但是我吃感觉副作用不明显(目前是每天1t)，我的医生说他敢开就一定能成功戒断，所以棠就同意用这款药了～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2076993960921509913",
+        "created_at": "2026-07-14T12:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077008801463669009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1305129071563534337",
+              "start": 0,
+              "username": "Ikyozi_SiYou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077008801463669009",
+        "in_reply_to_user_id": "1305129071563534337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077008026100449462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ikyozi_SiYou 听说黛力新副作用和戒断难度都超级大，但是我吃感觉副作用不明显(目前是每天1t)，我的医生说他敢开就一定能成功戒断，所以棠就同意用这款药了～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1305129071563534337",
+        "conversation_id": "2076993960921509913",
+        "created_at": "2026-07-14T12:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077008026100449462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077008026100449462",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076993960921509913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 好像听说黛力新副作用有点可怕来着\n我吃ssri类就会一直犯困，唉唉…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2388,
+          "following_count": 252,
+          "like_count": 9564,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 648
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-13T13:00:03.000Z",
+        "description": "明月入怀，载月明归。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ikyozi_cn",
+                "end": 23,
+                "expanded_url": "https://t.me/ikyozi_cn",
+                "start": 0,
+                "url": "https://t.co/RpEkndCDmL"
+              }
+            ]
+          }
+        },
+        "id": "1305129071563534337",
+        "location": "Tientsin, CN",
+        "name": "IKYOZi",
+        "pinned_tweet_id": "2026996520369983940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073165726131904512/cj_S-eij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 348,
+          "like_count": 16935,
+          "listed_count": 6,
+          "media_count": 250,
+          "tweet_count": 1657
+        },
+        "url": "https://t.co/RpEkndCDmL",
+        "username": "Ikyozi_SiYou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2052357331929956645",
+    "created_at": "2026-05-07T21:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T22:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052499903197397038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900108524304076800",
+          "start": 0,
+          "username": "qi_bu64350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052499903197397038",
+    "in_reply_to_user_id": "1900108524304076800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052357331929956645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_bu64350 比较合适的是大型连锁的便利店店员(711啥的)，糟糕一点的是网管(网鱼这类的)，更糟糕的是在线或是电话客服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2052357331929956645",
+        "created_at": "2026-05-07T21:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T22:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052499903197397038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900108524304076800",
+              "start": 0,
+              "username": "qi_bu64350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052499903197397038",
+        "in_reply_to_user_id": "1900108524304076800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052357331929956645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_bu64350 比较合适的是大型连锁的便利店店员(711啥的)，糟糕一点的是网管(网鱼这类的)，更糟糕的是在线或是电话客服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900108524304076800",
+        "conversation_id": "2052357331929956645",
+        "created_at": "2026-05-07T11:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052357331929956645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qi_bu64350/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/qi_bu64350/status/2052278286328471752",
+              "start": 46,
+              "url": "https://t.co/83QLmtlBPd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052357331929956645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4269,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052278286328471752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在安顿下来了后最大的问题是，我要怎么在半个月内赚一千块钱来(没工作啊喂)🥲总不能真去…😇 https://t.co/83QLmtlBPd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 144,
+          "like_count": 2519,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 269
+        },
+        "username": "jutangxiao1229",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T08:56:07.000Z",
+        "description": "前@Ciallo_114_514 \n一切过激言论均由第二人格控制发布\n看心情回fo，互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 1,
+                "username": "Ciallo_114_514"
+              }
+            ]
+          }
+        },
+        "id": "1900108524304076800",
+        "location": "第五高原",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049695578402304000/1dyUSXys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 607,
+          "like_count": 633,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 911
+        },
+        "username": "qi_bu64350",
+        "verified": false
+      }
+    ]
+  }
+}

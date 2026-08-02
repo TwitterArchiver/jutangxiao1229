@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2075427257271886285",
+    "created_at": "2026-07-10T03:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075427257271886285"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jutangxiao1229…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/jutangxiao1229/status/2073025517708878309",
+          "start": 41,
+          "url": "https://t.co/62wIHopTPc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075427257271886285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073025517708878309",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对吃东西不感兴趣也很正常吧，毕竟已经吃了快二十年了(笑\n૮₍  ˶•⤙•˶ ₎ა https://t.co/62wIHopTPc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2075427257271886285",
+        "created_at": "2026-07-10T03:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075427257271886285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jutangxiao1229…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/jutangxiao1229/status/2073025517708878309",
+              "start": 41,
+              "url": "https://t.co/62wIHopTPc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075427257271886285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073025517708878309",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对吃东西不感兴趣也很正常吧，毕竟已经吃了快二十年了(笑\n૮₍  ˶•⤙•˶ ₎ა https://t.co/62wIHopTPc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2073025517708878309",
+        "created_at": "2026-07-03T12:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073025517708878309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073025517708878309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "目前陷入了神奇的状态～\n想吃东西→对食物有恶心感→但是还是有较强的饥饿感→可以惩罚这个肉体似乎也不错→继续饿着→开心\n⪩. .⪨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "pinned_tweet_id": "2075215777553408355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 237,
+          "like_count": 6923,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 599
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

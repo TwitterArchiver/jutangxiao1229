@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2055217862034468974",
+    "created_at": "2026-05-15T09:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T10:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055217862034468974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sorcerer198964…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/Sorcerer198964/status/2055129885815824753",
+          "start": 38,
+          "url": "https://t.co/g78ZKv9Pjv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055217862034468974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055129885815824753",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一般利多卡因注射液的辅料是生理盐水和氢氧化钠，含其他的一般是复合型注射液了 https://t.co/g78ZKv9Pjv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2055217862034468974",
+        "created_at": "2026-05-15T09:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055217862034468974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sorcerer198964…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Sorcerer198964/status/2055129885815824753",
+              "start": 38,
+              "url": "https://t.co/g78ZKv9Pjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055217862034468974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055129885815824753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一般利多卡因注射液的辅料是生理盐水和氢氧化钠，含其他的一般是复合型注射液了 https://t.co/g78ZKv9Pjv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2054981594231029799",
+        "created_at": "2026-05-15T03:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055129885815824753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1886796352283402250",
+              "start": 0,
+              "username": "TheCyclist400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055129885815824753",
+        "in_reply_to_user_id": "1886796352283402250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054981594231029799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheCyclist400 注射液里没标明有肾上腺素，但是加了肾上腺素的麻醉和手术效果会好很多\n所以究竟有没有呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 209,
+          "like_count": 3716,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 374
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世：@Witch198964 互fo寻回中｜ 06 ｜ MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Witch198964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041452438411227136/lEeNP37m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 527,
+          "like_count": 437,
+          "listed_count": 2,
+          "media_count": 248,
+          "tweet_count": 1407
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer198964",
+        "verified": false
+      }
+    ]
+  }
+}

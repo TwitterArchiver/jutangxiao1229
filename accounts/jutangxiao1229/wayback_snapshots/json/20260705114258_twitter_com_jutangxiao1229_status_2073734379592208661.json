@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2073732345736429758",
+    "created_at": "2026-07-05T11:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073734379592208661"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073734379592208661",
+    "in_reply_to_user_id": "1845076547197353984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073732345736429758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补充：物质是苯海拉明～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1889,
+        "media_key": "3_2073732337196834816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdgktXboAARZRv.jpg",
+        "width": 967
+      },
+      {
+        "height": 1897,
+        "media_key": "3_2073732337230303233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdgktfaUAEqILF.jpg",
+        "width": 968
+      },
+      {
+        "height": 1884,
+        "media_key": "3_2073732337184169984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdgktUaYAAHTau.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2073732345736429758",
+        "created_at": "2026-07-05T11:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073734379592208661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073734379592208661",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073732345736429758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补充：物质是苯海拉明～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073732337196834816",
+            "3_2073732337230303233",
+            "3_2073732337184169984"
+          ]
+        },
+        "author_id": "1845076547197353984",
+        "conversation_id": "2073732345736429758",
+        "created_at": "2026-07-05T11:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073732345736429758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pw4YHk10YZ",
+              "end": 52,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2073732345736429758/photo/1",
+              "media_key": "3_2073732337196834816",
+              "start": 29,
+              "url": "https://t.co/Pw4YHk10YZ"
+            },
+            {
+              "display_url": "pic.x.com/Pw4YHk10YZ",
+              "end": 52,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2073732345736429758/photo/1",
+              "media_key": "3_2073732337230303233",
+              "start": 29,
+              "url": "https://t.co/Pw4YHk10YZ"
+            },
+            {
+              "display_url": "pic.x.com/Pw4YHk10YZ",
+              "end": 52,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2073732345736429758/photo/1",
+              "media_key": "3_2073732337184169984",
+              "start": 29,
+              "url": "https://t.co/Pw4YHk10YZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073732345736429758",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的有人od软膏吗\n那很恐怖了&lt;(ºOº)&gt; https://t.co/Pw4YHk10YZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jutangxiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jutangxiao",
+                "start": 0,
+                "url": "https://t.co/DUSIG2aP97"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 212,
+          "like_count": 5120,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 487
+        },
+        "url": "https://t.co/DUSIG2aP97",
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

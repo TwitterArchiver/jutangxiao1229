@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046798879509921792",
+        "3_2046798888162729985"
+      ]
+    },
+    "author_id": "1845076547197353984",
+    "conversation_id": "2046798904805703890",
+    "created_at": "2026-04-22T03:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T04:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046798904805703890"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/58Ijkgwem3",
+          "end": 91,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2046798904805703890/photo/1",
+          "media_key": "3_2046798879509921792",
+          "start": 68,
+          "url": "https://t.co/58Ijkgwem3"
+        },
+        {
+          "display_url": "pic.x.com/58Ijkgwem3",
+          "end": 91,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2046798904805703890/photo/1",
+          "media_key": "3_2046798888162729985",
+          "start": 68,
+          "url": "https://t.co/58Ijkgwem3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046798904805703890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坏消息：陪跑两个月最后终面挂了😭\n更坏的消息：第一反应居然是先找两粒阿普唑仑抗一下焦虑๑ᵒᯅᵒ๑\n又要从零开始了，头秃( -ωก̀ ) https://t.co/58Ijkgwem3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046798904805703890].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046798904805703890",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046798904805703890"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2281,
+        "media_key": "3_2046798879509921792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGewvIvbQAAnLQ2.jpg",
+        "width": 968
+      },
+      {
+        "height": 1850,
+        "media_key": "3_2046798888162729985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGewvo-aoAEzKP_.jpg",
+        "width": 1848
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员@fghj87526441",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 86,
+                "username": "fghj87526441"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039212303745421312/yNpBqqWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 88,
+          "like_count": 1209,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 163
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

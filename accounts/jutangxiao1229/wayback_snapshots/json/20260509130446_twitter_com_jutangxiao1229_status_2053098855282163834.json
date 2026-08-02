@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2053098855282163834",
+    "created_at": "2026-05-09T13:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T14:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053098855282163834"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053098855282163834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我对于有过相似经历并且代入感比较强时共情能力特别强。\n但遇到其他情况就漠不关心(比如舍友的头被柜子磕破，他自己非常担心，其他两位舍友也直接围上去查看情况了，我的第一反应是这种小事情也要这样吗)\n棠其实是非常冷漠的人，但也在尝试去学习模仿别人了\n₍ ᐢᴗ ˔ ᴗᐢ₎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2053098855282163834",
+        "created_at": "2026-05-09T13:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053098855282163834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053098855282163834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对于有过相似经历并且代入感比较强时共情能力特别强。\n但遇到其他情况就漠不关心(比如舍友的头被柜子磕破，他自己非常担心，其他两位舍友也直接围上去查看情况了，我的第一反应是这种小事情也要这样吗)\n棠其实是非常冷漠的人，但也在尝试去学习模仿别人了\n₍ ᐢᴗ ˔ ᴗᐢ₎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 201,
+          "like_count": 2964,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 307
+        },
+        "username": "jutangxiao1229",
+        "verified": false
+      }
+    ]
+  }
+}

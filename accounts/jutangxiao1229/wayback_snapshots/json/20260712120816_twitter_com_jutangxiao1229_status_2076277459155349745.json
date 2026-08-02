@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2076277459155349745",
+    "created_at": "2026-07-12T12:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076277459155349745"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076277459155349745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "药效中突然翻到小学时那本被老师强制写的日记\n刚开始写的时候，棠还会老老实实写：今天和同学玩大获全胜，课间追着谁跑……\n后来呢？棠突然“开窍”了\n棠发现老师批改的时候，看到“今天学到了……”“我今天体会到老师工作很辛苦”这些句子，会画大大的波浪线，还会写上表扬的评语\n于是棠的日记内容就悄无声息地变了\n再也没有“今天玩得很开心”，取而代之的是“今天上课认真听讲，学会了……”或者“我今天帮家里做了家务，感受到大人的辛苦”\n我甚至会故意把字写得工整一些，多加几个感叹号\n\n那时候棠才小学三四年级，却已经本能的学会了：大人喜欢看什么，我就写什么\n原来棠很早就开始练习，如何隐藏真实的自己"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "药效中突然翻到小学时那本被老师强制写的日记\n刚开始写的时候，棠还会老老实实写：今天和同学玩大获全胜，课间追着谁跑……\n后来呢？棠突然“开窍”了\n棠发现老师批改的时候，看到“今天学到了……”“我今天体会到老师工作很辛苦”这些句子，会画大大的波浪线，还会写上表扬的评语"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2076277459155349745",
+        "created_at": "2026-07-12T12:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076277459155349745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076277459155349745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "药效中突然翻到小学时那本被老师强制写的日记\n刚开始写的时候，棠还会老老实实写：今天和同学玩大获全胜，课间追着谁跑……\n后来呢？棠突然“开窍”了\n棠发现老师批改的时候，看到“今天学到了……”“我今天体会到老师工作很辛苦”这些句子，会画大大的波浪线，还会写上表扬的评语\n于是棠的日记内容就悄无声息地变了\n再也没有“今天玩得很开心”，取而代之的是“今天上课认真听讲，学会了……”或者“我今天帮家里做了家务，感受到大人的辛苦”\n我甚至会故意把字写得工整一些，多加几个感叹号\n\n那时候棠才小学三四年级，却已经本能的学会了：大人喜欢看什么，我就写什么\n原来棠很早就开始练习，如何隐藏真实的自己"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药效中突然翻到小学时那本被老师强制写的日记\n刚开始写的时候，棠还会老老实实写：今天和同学玩大获全胜，课间追着谁跑……\n后来呢？棠突然“开窍”了\n棠发现老师批改的时候，看到“今天学到了……”“我今天体会到老师工作很辛苦”这些句子，会画大大的波浪线，还会写上表扬的评语"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2174,
+          "following_count": 243,
+          "like_count": 8371,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 624
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

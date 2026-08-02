@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2074141829474468186",
+    "created_at": "2026-07-06T14:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T15:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074141829474468186"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074141829474468186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "小时候的我攻击性好像蛮强的…\n其实是因为太害怕失去父母的爱吧。\n记得他们跟我讨论二胎的时候，我反应很大，说了“我要把他杀了”那样过激的话。之后他们就再也没提过。\n现在回想，父母是不是也挺无奈的？\n因为我后来在心理健康上遇到了挑战，让他们把所有担心、所有压力、所有“性价比”的计算，都放在我一个“大号”身上……如果当初有了弟弟妹妹，或许他们现在能轻松点，不用那么用力地防备和算计。\n但不管怎样，我还是谢谢他们一直陪着我走这些弯路。\n我不是故意“练废”的，我只是也在努力面对这个看起来全是自私和防备的世界。\n希望有一天，我们能互相理解，而不是只剩防备。\nε(´｡•᎑•`)っ♡"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小时候的我攻击性好像蛮强的…\n其实是因为太害怕失去父母的爱吧。\n记得他们跟我讨论二胎的时候，我反应很大，说了“我要把他杀了”那样过激的话。之后他们就再也没提过。\n现在回想，父母是不是也挺无奈的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2074141829474468186",
+        "created_at": "2026-07-06T14:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T15:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074141829474468186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074141829474468186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "小时候的我攻击性好像蛮强的…\n其实是因为太害怕失去父母的爱吧。\n记得他们跟我讨论二胎的时候，我反应很大，说了“我要把他杀了”那样过激的话。之后他们就再也没提过。\n现在回想，父母是不是也挺无奈的？\n因为我后来在心理健康上遇到了挑战，让他们把所有担心、所有压力、所有“性价比”的计算，都放在我一个“大号”身上……如果当初有了弟弟妹妹，或许他们现在能轻松点，不用那么用力地防备和算计。\n但不管怎样，我还是谢谢他们一直陪着我走这些弯路。\n我不是故意“练废”的，我只是也在努力面对这个看起来全是自私和防备的世界。\n希望有一天，我们能互相理解，而不是只剩防备。\nε(´｡•᎑•`)っ♡"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候的我攻击性好像蛮强的…\n其实是因为太害怕失去父母的爱吧。\n记得他们跟我讨论二胎的时候，我反应很大，说了“我要把他杀了”那样过激的话。之后他们就再也没提过。\n现在回想，父母是不是也挺无奈的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jutangxiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jutangxiao",
+                "start": 0,
+                "url": "https://t.co/DUSIG2aP97"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "pinned_tweet_id": "2073985714845549001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 210,
+          "like_count": 5468,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 533
+        },
+        "url": "https://t.co/DUSIG2aP97",
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

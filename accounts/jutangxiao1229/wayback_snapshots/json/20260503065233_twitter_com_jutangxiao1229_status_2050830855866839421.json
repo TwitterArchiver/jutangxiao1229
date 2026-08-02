@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2050821383031271832",
+    "created_at": "2026-05-03T06:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T07:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050830855866839421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2012841769105567744",
+          "start": 0,
+          "username": "18nuun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050830855866839421",
+    "in_reply_to_user_id": "2012841769105567744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050821383031271832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@18nuun 缺点是油性药剂推药还是蛮痛的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2050821383031271832",
+        "created_at": "2026-05-03T06:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T07:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050830855866839421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2012841769105567744",
+              "start": 0,
+              "username": "18nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050830855866839421",
+        "in_reply_to_user_id": "2012841769105567744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050821383031271832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@18nuun 缺点是油性药剂推药还是蛮痛的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012841769105567744",
+        "conversation_id": "2050821383031271832",
+        "created_at": "2026-05-03T06:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T07:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050821383031271832"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050821383031271832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉打日雌很不错，想试一试…而且一周打一次很方便的说w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 138,
+          "like_count": 2032,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 223
+        },
+        "username": "jutangxiao1229",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T10:57:56.000Z",
+        "description": "沉浸于药物和自毁的欣快之中｜mtf｜06｜重抑｜INFP｜💊药物成瘾中心｜｜大号是@aureliax17qwq｜896489648964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 41,
+                "username": "aureliax17qwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 23,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 0,
+                "url": "https://t.co/zuGwDBSPxv"
+              }
+            ]
+          }
+        },
+        "id": "2012841769105567744",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2048730215359406376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049078208616919040/SoqRVR6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 27,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/zuGwDBSPxv",
+        "username": "18nuun",
+        "verified": false
+      }
+    ]
+  }
+}

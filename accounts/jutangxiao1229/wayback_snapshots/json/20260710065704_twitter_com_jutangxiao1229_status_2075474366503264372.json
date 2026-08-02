@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075474364116680704"
+      ]
+    },
+    "author_id": "1845076547197353984",
+    "conversation_id": "2075474366503264372",
+    "created_at": "2026-07-10T06:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T07:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075474366503264372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/USUvGOMudg",
+          "end": 91,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2075474366503264372/photo/1",
+          "media_key": "3_2075474364116680704",
+          "start": 68,
+          "url": "https://t.co/USUvGOMudg"
+        },
+        {
+          "display_url": "x.com/jutangxiao1229…",
+          "end": 115,
+          "expanded_url": "https://twitter.com/jutangxiao1229/status/2073602252397560106",
+          "start": 92,
+          "url": "https://t.co/V1jr2TJSfO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075474366503264372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073602252397560106",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "展示一下棠实习的那一个月会议强度，基本上就是从上午上班开始到下午下班，全程会议(甚至12-14午休时间也会被占用一个小时)\nʕÖʕÖʔ https://t.co/USUvGOMudg https://t.co/V1jr2TJSfO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2075474364116680704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2Q8BWawAANoiK.jpg",
+        "width": 577
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073602245971816448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbqQZyaMAAQ_X8.jpg",
+        "width": 834
+      },
+      {
+        "height": 1258,
+        "media_key": "3_2073602246546526208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbqQb7bkAAP8A1.jpg",
+        "width": 686
+      },
+      {
+        "height": 671,
+        "media_key": "3_2073602246848495616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbqQdDbQAAnsii.jpg",
+        "width": 694
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075474364116680704"
+          ]
+        },
+        "author_id": "1845076547197353984",
+        "conversation_id": "2075474366503264372",
+        "created_at": "2026-07-10T06:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075474366503264372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/USUvGOMudg",
+              "end": 91,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2075474366503264372/photo/1",
+              "media_key": "3_2075474364116680704",
+              "start": 68,
+              "url": "https://t.co/USUvGOMudg"
+            },
+            {
+              "display_url": "x.com/jutangxiao1229…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/jutangxiao1229/status/2073602252397560106",
+              "start": 92,
+              "url": "https://t.co/V1jr2TJSfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075474366503264372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073602252397560106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "展示一下棠实习的那一个月会议强度，基本上就是从上午上班开始到下午下班，全程会议(甚至12-14午休时间也会被占用一个小时)\nʕÖʕÖʔ https://t.co/USUvGOMudg https://t.co/V1jr2TJSfO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073602245971816448",
+            "3_2073602246546526208",
+            "3_2073602246848495616"
+          ]
+        },
+        "author_id": "1845076547197353984",
+        "conversation_id": "2073602252397560106",
+        "created_at": "2026-07-05T02:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073602252397560106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4zDUYr1ZcG",
+              "end": 144,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2073602252397560106/photo/1",
+              "media_key": "3_2073602245971816448",
+              "start": 121,
+              "url": "https://t.co/4zDUYr1ZcG"
+            },
+            {
+              "display_url": "pic.x.com/4zDUYr1ZcG",
+              "end": 144,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2073602252397560106/photo/1",
+              "media_key": "3_2073602246546526208",
+              "start": 121,
+              "url": "https://t.co/4zDUYr1ZcG"
+            },
+            {
+              "display_url": "pic.x.com/4zDUYr1ZcG",
+              "end": 144,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2073602252397560106/photo/1",
+              "media_key": "3_2073602246848495616",
+              "start": 121,
+              "url": "https://t.co/4zDUYr1ZcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073602252397560106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "棠感觉自己亲手毁掉了美好的生活|･_･`)\n明明实习薪资一万，+1和+2都那么和善(因为之前的行为，所以离职了)；\n父母虽然控制欲强、很少情感交流，但其他方面真的很照顾棠；\n虽然没有固定朋友，但棠偶尔还是能找到人倾诉；\n姐姐对棠那么宠爱……\n结果现在，棠却一天天浑浑噩噩，像不断在自我破坏，把所有好东西都推开一样\n为什么棠总是这样？明明拥有这么多爱与机会，却亲手把生活搞得一团糟？\n•᎔•"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "棠感觉自己亲手毁掉了美好的生活|･_･`)\n明明实习薪资一万，+1和+2都那么和善(因为之前的行为，所以离职了)；\n父母虽然控制欲强、很少情感交流，但其他方面真的很照顾棠；\n虽然没有固定朋友，但棠偶尔还是能找到人倾诉；\n姐姐对棠那么宠爱…… https://t.co/4zDUYr1ZcG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "pinned_tweet_id": "2075215777553408355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961,
+          "following_count": 239,
+          "like_count": 6968,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 596
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

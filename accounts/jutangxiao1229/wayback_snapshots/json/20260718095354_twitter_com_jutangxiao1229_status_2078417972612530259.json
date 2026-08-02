@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2078345409035178277",
+    "created_at": "2026-07-18T09:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T10:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078417972612530259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1643934829514493952",
+          "start": 0,
+          "username": "nmudm1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078417972612530259",
+    "in_reply_to_user_id": "1643934829514493952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078345998846562724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nmudm1 是的，但是应该问题不大～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2078345409035178277",
+        "created_at": "2026-07-18T09:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078417972612530259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1643934829514493952",
+              "start": 0,
+              "username": "nmudm1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078417972612530259",
+        "in_reply_to_user_id": "1643934829514493952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078345998846562724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nmudm1 是的，但是应该问题不大～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643934829514493952",
+        "conversation_id": "2078345409035178277",
+        "created_at": "2026-07-18T05:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078345998846562724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078345998846562724",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078345409035178277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 性激素双高啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389,
+          "following_count": 253,
+          "like_count": 10678,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 669
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-06T11:13:08.000Z",
+        "description": "做个俗人，贪财好色",
+        "id": "1643934829514493952",
+        "name": "Yeshua（努力搞钱版",
+        "pinned_tweet_id": "2042425623885594767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066174205591515136/rWWKmDCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 27,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 233
+        },
+        "url": "",
+        "username": "nmudm1",
+        "verified": false
+      }
+    ]
+  }
+}

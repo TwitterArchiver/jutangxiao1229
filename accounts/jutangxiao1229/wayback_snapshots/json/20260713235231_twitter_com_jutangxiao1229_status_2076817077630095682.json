@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2076665636978360653",
+    "created_at": "2026-07-13T23:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T00:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076817077630095682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1856564264271548416",
+          "start": 0,
+          "username": "256Huang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076817077630095682",
+    "in_reply_to_user_id": "1856564264271548416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076812589204721902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@256Huang 官方：进水属于人为损坏哦，不在保修范围内～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2076665636978360653",
+        "created_at": "2026-07-13T23:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076817077630095682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1856564264271548416",
+              "start": 0,
+              "username": "256Huang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076817077630095682",
+        "in_reply_to_user_id": "1856564264271548416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076812589204721902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@256Huang 官方：进水属于人为损坏哦，不在保修范围内～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856564264271548416",
+        "conversation_id": "2076665636978360653",
+        "created_at": "2026-07-13T23:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076812589204721902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076812589204721902",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076767098446201251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 我超威这是潜水手表啊喂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2383,
+          "following_count": 249,
+          "like_count": 9046,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 638
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-13T05:06:41.000Z",
+        "description": "一个拥抱多少钱？！",
+        "id": "1856564264271548416",
+        "name": "苯苯海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023099536059826176/srt4qC32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 109,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 622
+        },
+        "url": "",
+        "username": "256Huang",
+        "verified": false
+      }
+    ]
+  }
+}

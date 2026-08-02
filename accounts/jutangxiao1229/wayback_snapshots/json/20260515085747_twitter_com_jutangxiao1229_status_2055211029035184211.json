@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2055166769736954135",
+    "created_at": "2026-05-15T08:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T09:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055211029035184211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1860742128688857088",
+          "start": 0,
+          "username": "zhouxuanjiu2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055211029035184211",
+    "in_reply_to_user_id": "1860742128688857088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055166769736954135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhouxuanjiu2 应该是被举报了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055166758328455168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVrRyhb0AAKo5X.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2055166769736954135",
+        "created_at": "2026-05-15T08:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055211029035184211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1860742128688857088",
+              "start": 0,
+              "username": "zhouxuanjiu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055211029035184211",
+        "in_reply_to_user_id": "1860742128688857088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055166769736954135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhouxuanjiu2 应该是被举报了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055166758328455168"
+          ]
+        },
+        "author_id": "1860742128688857088",
+        "conversation_id": "2055166769736954135",
+        "created_at": "2026-05-15T06:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055166769736954135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aIUkGdeZZy",
+              "end": 51,
+              "expanded_url": "https://x.com/zhouxuanjiu2/status/2055166769736954135/photo/1",
+              "media_key": "3_2055166758328455168",
+              "start": 28,
+              "url": "https://t.co/aIUkGdeZZy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055166769736954135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 336,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么只要是发pr的号都被msk的大手拿下了，我受不了了 https://t.co/aIUkGdeZZy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 209,
+          "like_count": 3703,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 375
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-24T17:48:02.000Z",
+        "description": "❤️@LiciiQAQ｜兜售自制凝胶和土色和日雌（可零售）｜可能可以说是mtx或者mtf｜情绪不稳定｜可以和我交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "LiciiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1860742128688857088",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "仿生野草会梦见电子锈病萱草花吗",
+        "pinned_tweet_id": "2054948767552709071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040455834787024896/obrN0Syw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 467,
+          "like_count": 2353,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 979
+        },
+        "username": "zhouxuanjiu2",
+        "verified": true
+      }
+    ]
+  }
+}

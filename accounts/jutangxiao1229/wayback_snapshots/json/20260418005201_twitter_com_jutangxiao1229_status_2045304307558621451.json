@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2045297596542128287",
+    "created_at": "2026-04-18T00:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T01:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045304307558621451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2031097520840167424",
+          "start": 0,
+          "username": "Ciallo_114_514"
+        }
+      ],
+      "urls": [
+        {
+          "description": "LiverTox® provides regularly updated, unbiased and easily accessed information on the diagnosis, cause, frequency, clinical patterns and management of liver injury attributable to prescription and nonprescription medications and selected herbal and dietary supplements. The LiverTox site is meant as a resource for both physicians and patients as well as for clinical academicians and researchers who specialize in idiosyncratic drug induced hepatotoxicity.",
+          "display_url": "ncbi.nlm.nih.gov/books/NBK54785…",
+          "end": 176,
+          "expanded_url": "https://www.ncbi.nlm.nih.gov/books/NBK547852/",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/2045304316563755008/Im3o-p-V?format=png&name=orig",
+              "width": 160
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2045304316563755008/Im3o-p-V?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 153,
+          "status": 200,
+          "title": "LiverTox",
+          "unwound_url": "https://www.ncbi.nlm.nih.gov/books/NBK547852/",
+          "url": "https://t.co/foH6D41n31"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045304307558621451",
+    "in_reply_to_user_id": "2031097520840167424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045297596542128287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ciallo_114_514 最常见的就是对乙酰氨基酚，过量（&gt;4g/天，急性中毒常&gt;10g）时，代谢产物NAPQI耗竭谷胱甘肽，直接引起大片肝细胞坏死（hyperacute型），从摄入到ALF峰值仅需72小时左右，转氨酶可&gt;10,000 IU/L ʢ˶ᵒ ᵕ ˂˶ʡᶻ\n其他药物可以看https://t.co/foH6D41n31"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2045297596542128287",
+        "created_at": "2026-04-18T00:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045304307558621451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031097520840167424",
+              "start": 0,
+              "username": "Ciallo_114_514"
+            }
+          ],
+          "urls": [
+            {
+              "description": "LiverTox® provides regularly updated, unbiased and easily accessed information on the diagnosis, cause, frequency, clinical patterns and management of liver injury attributable to prescription and nonprescription medications and selected herbal and dietary supplements. The LiverTox site is meant as a resource for both physicians and patients as well as for clinical academicians and researchers who specialize in idiosyncratic drug induced hepatotoxicity.",
+              "display_url": "ncbi.nlm.nih.gov/books/NBK54785…",
+              "end": 176,
+              "expanded_url": "https://www.ncbi.nlm.nih.gov/books/NBK547852/",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2045304316563755008/Im3o-p-V?format=png&name=orig",
+                  "width": 160
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2045304316563755008/Im3o-p-V?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 153,
+              "status": 200,
+              "title": "LiverTox",
+              "unwound_url": "https://www.ncbi.nlm.nih.gov/books/NBK547852/",
+              "url": "https://t.co/foH6D41n31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045304307558621451",
+        "in_reply_to_user_id": "2031097520840167424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045297596542128287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ciallo_114_514 最常见的就是对乙酰氨基酚，过量（&gt;4g/天，急性中毒常&gt;10g）时，代谢产物NAPQI耗竭谷胱甘肽，直接引起大片肝细胞坏死（hyperacute型），从摄入到ALF峰值仅需72小时左右，转氨酶可&gt;10,000 IU/L ʢ˶ᵒ ᵕ ˂˶ʡᶻ\n其他药物可以看https://t.co/foH6D41n31"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031097520840167424",
+        "conversation_id": "2045297596542128287",
+        "created_at": "2026-04-18T00:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045297596542128287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045297596542128287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 108,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有什么能使肝肾极速衰竭的方法 求指教"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/可以来找我聊天但是回复很慢/当日记随时删/监护员@fghj87526441",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "fghj87526441"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039212303745421312/yNpBqqWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 88,
+          "like_count": 1075,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 156
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-09T19:59:37.000Z",
+        "description": "前世@YunoQiu56649｜互fo喵(没回私信提醒我喵)\n生日0402｜hrt2026.1.12-3.19 断糖ing｜已炸柜｜超级天残党+家长不管党｜中焦重抑｜全部立场中立｜碎碎念｜我又不想死了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "2031097520840167424",
+        "location": "你家",
+        "name": "Ciallo～(∠・ω ＜ )︵★🍥🏳️‍⚧️（互fo寻回ing）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035909538168328193/rP91M_1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 657,
+          "like_count": 1669,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 3216
+        },
+        "username": "Ciallo_114_514",
+        "verified": false
+      }
+    ]
+  }
+}

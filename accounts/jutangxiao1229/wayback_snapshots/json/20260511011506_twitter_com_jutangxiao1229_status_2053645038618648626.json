@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2053640742116204565",
+    "created_at": "2026-05-11T01:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T02:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053645038618648626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053645038618648626",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053640742116204565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 每次打开推就看到12发布任务(笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053640732796506112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH__Xaab0AAnl6S.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053640733052268544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH__XbXacAA8tWN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2053640742116204565",
+        "created_at": "2026-05-11T01:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053645038618648626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053645038618648626",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053640742116204565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 每次打开推就看到12发布任务(笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053640732796506112",
+            "3_2053640733052268544"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053640742116204565",
+        "created_at": "2026-05-11T00:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053640742116204565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3PRPwQygu",
+              "end": 36,
+              "expanded_url": "https://x.com/hg3551019177402/status/2053640742116204565/photo/1",
+              "media_key": "3_2053640732796506112",
+              "start": 13,
+              "url": "https://t.co/U3PRPwQygu"
+            },
+            {
+              "display_url": "pic.x.com/U3PRPwQygu",
+              "end": 36,
+              "expanded_url": "https://x.com/hg3551019177402/status/2053640742116204565/photo/1",
+              "media_key": "3_2053640733052268544",
+              "start": 13,
+              "url": "https://t.co/U3PRPwQygu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053640742116204565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好，中国，我是冰冻人 https://t.co/U3PRPwQygu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 178,
+          "like_count": 3110,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 327
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟袋，欢迎咨询/合法物质研究中/犯罪嫌疑人X",
+        "id": "1684269091849404416",
+        "name": "12（男子日常）",
+        "pinned_tweet_id": "2053615175929143336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052935146790326272/SSGFJI8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 865,
+          "like_count": 18217,
+          "listed_count": 1,
+          "media_count": 740,
+          "tweet_count": 9660
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

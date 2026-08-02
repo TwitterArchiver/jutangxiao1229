@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2074330914533089584",
+    "created_at": "2026-07-07T03:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T04:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074330914533089584"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vrsertonin/sta…",
+          "end": 209,
+          "expanded_url": "https://twitter.com/vrsertonin/status/2073831352953430192",
+          "start": 186,
+          "url": "https://t.co/vXuoKBM9M1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074330914533089584",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073831352953430192",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "I've tried that several times. The pain is fairly intense, but it's very discreet and hard to notice, bleeds quite heavily, and you can even use scissors around the edges of those area. https://t.co/vXuoKBM9M1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2074330914533089584",
+        "created_at": "2026-07-07T03:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074330914533089584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vrsertonin/sta…",
+              "end": 209,
+              "expanded_url": "https://twitter.com/vrsertonin/status/2073831352953430192",
+              "start": 186,
+              "url": "https://t.co/vXuoKBM9M1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074330914533089584",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073831352953430192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I've tried that several times. The pain is fairly intense, but it's very discreet and hard to notice, bleeds quite heavily, and you can even use scissors around the edges of those area. https://t.co/vXuoKBM9M1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579042294061113344",
+        "conversation_id": "2073831352953430192",
+        "created_at": "2026-07-05T18:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073831352953430192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073831352953430192",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 105548,
+          "like_count": 5627,
+          "quote_count": 39,
+          "reply_count": 42,
+          "retweet_count": 188
+        },
+        "reply_settings": "everyone",
+        "text": "oh god, if your parent bodychecks you for cuts Please dont cut your penis or vagina😭😭 just dont cut at all atp😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jutangxiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jutangxiao",
+                "start": 0,
+                "url": "https://t.co/DUSIG2aP97"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "pinned_tweet_id": "2073985714845549001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 210,
+          "like_count": 5506,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/DUSIG2aP97",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-09T09:33:26.000Z",
+        "description": "kaveh of shedtwt | epitome of sin to a degree | old shedtwt user, new account , ifb any1 #slittwt #ricecaketwt #988twt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 89,
+                "tag": "slittwt"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "tag": "ricecaketwt"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "tag": "988twt"
+              }
+            ]
+          }
+        },
+        "id": "1579042294061113344",
+        "location": "12 feet deep",
+        "name": "sero 🏛️ kavehrexia",
+        "pinned_tweet_id": "2074051464897642685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073090805359886336/PqQVaGJw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 157,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 678
+        },
+        "url": "",
+        "username": "vrsertonin",
+        "verified": false
+      }
+    ]
+  }
+}

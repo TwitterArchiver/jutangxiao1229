@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041467292865990656",
+        "3_2041467305914507264"
+      ]
+    },
+    "author_id": "1845076547197353984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041467356309012629",
+    "created_at": "2026-04-07T10:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T11:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041467356309012629"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6MVGBHQlqq",
+          "end": 32,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2041467356309012629/photo/1",
+          "media_key": "3_2041467292865990656",
+          "start": 9,
+          "url": "https://t.co/6MVGBHQlqq"
+        },
+        {
+          "display_url": "pic.x.com/6MVGBHQlqq",
+          "end": 32,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2041467356309012629/photo/1",
+          "media_key": "3_2041467305914507264",
+          "start": 9,
+          "url": "https://t.co/6MVGBHQlqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041467356309012629",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "火箭(bushi https://t.co/6MVGBHQlqq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1525,
+        "media_key": "3_2041467292865990656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFS_r8vbEAApl8h.jpg",
+        "width": 850
+      },
+      {
+        "height": 2252,
+        "media_key": "3_2041467305914507264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFS_stWboAAXrez.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041467292865990656",
+            "3_2041467305914507264"
+          ]
+        },
+        "author_id": "1845076547197353984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041467356309012629",
+        "created_at": "2026-04-07T10:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041467356309012629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6MVGBHQlqq",
+              "end": 32,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2041467356309012629/photo/1",
+              "media_key": "3_2041467292865990656",
+              "start": 9,
+              "url": "https://t.co/6MVGBHQlqq"
+            },
+            {
+              "display_url": "pic.x.com/6MVGBHQlqq",
+              "end": 32,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2041467356309012629/photo/1",
+              "media_key": "3_2041467305914507264",
+              "start": 9,
+              "url": "https://t.co/6MVGBHQlqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041467356309012629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "火箭(bushi https://t.co/6MVGBHQlqq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/可以来找我聊天但是回复很慢/当日记随时删/监护员@fghj87526441",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "fghj87526441"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039212303745421312/yNpBqqWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 96,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 112
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

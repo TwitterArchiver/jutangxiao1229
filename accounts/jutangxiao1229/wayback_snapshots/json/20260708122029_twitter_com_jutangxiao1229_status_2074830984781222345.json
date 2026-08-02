@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2074803366505627774",
+    "created_at": "2026-07-08T12:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074830984781222345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545898408858161154",
+          "start": 0,
+          "username": "D3XTR0M3TH_0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074830984781222345",
+    "in_reply_to_user_id": "1545898408858161154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074803366505627774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D3XTR0M3TH_0w0 捉个虫，其实🧊是再摄取抑制剂加促释剂，并不是直接增加多巴胺\n描述一下我的状态(未去确诊ADHD)，面对不感兴趣的事情，可能是干十分钟 就去喝个水，继续干十几分钟，然后玩个手机干一些杂七杂八的事情然后继续干(不知道ADHD患者是怎么样的)，但如果进入心流状态可以直接连续干六个小时+"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2074803366505627774].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2074803366505627774",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2074803366505627774"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2074803366505627774",
+        "created_at": "2026-07-08T12:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074830984781222345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545898408858161154",
+              "start": 0,
+              "username": "D3XTR0M3TH_0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074830984781222345",
+        "in_reply_to_user_id": "1545898408858161154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074803366505627774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D3XTR0M3TH_0w0 捉个虫，其实🧊是再摄取抑制剂加促释剂，并不是直接增加多巴胺\n描述一下我的状态(未去确诊ADHD)，面对不感兴趣的事情，可能是干十分钟 就去喝个水，继续干十几分钟，然后玩个手机干一些杂七杂八的事情然后继续干(不知道ADHD患者是怎么样的)，但如果进入心流状态可以直接连续干六个小时+"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "pinned_tweet_id": "2073985714845549001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 224,
+          "like_count": 5715,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 572
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "退役oder，锁推只是防止被推送出去！欢迎互fo\n🏳️‍🌈🏳️‍⚧️💛🤍💜🖤he/they/🐱/猫\n#drugtwt #shtwt 无性别猫生物",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 50,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 65,
+                "start": 59,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "name": "🐱",
+        "pinned_tweet_id": "2045977962999332890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051338286296387587/A6mOoIbE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 1368,
+          "like_count": 6685,
+          "listed_count": 1,
+          "media_count": 625,
+          "tweet_count": 4219
+        },
+        "url": "",
+        "username": "D3XTR0M3TH_0w0",
+        "verified": false
+      }
+    ]
+  }
+}

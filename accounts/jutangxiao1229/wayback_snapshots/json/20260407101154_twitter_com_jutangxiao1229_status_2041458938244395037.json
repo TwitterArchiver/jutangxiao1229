@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2041456461054890487",
+    "created_at": "2026-04-07T10:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T11:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041458938244395037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031270533359349761",
+          "start": 0,
+          "username": "senzhiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041458938244395037",
+    "in_reply_to_user_id": "2031270533359349761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041456461054890487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senzhiwu 妹妹好好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1441,
+        "media_key": "3_2041456453517803520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFS11BBbgAAf-6U.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2041456461054890487",
+        "created_at": "2026-04-07T10:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041458938244395037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031270533359349761",
+              "start": 0,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041458938244395037",
+        "in_reply_to_user_id": "2031270533359349761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041456461054890487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senzhiwu 妹妹好好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041456453517803520"
+          ]
+        },
+        "author_id": "2031270533359349761",
+        "conversation_id": "2041456461054890487",
+        "created_at": "2026-04-07T10:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041456461054890487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r6NXXF3vM8",
+              "end": 62,
+              "expanded_url": "https://x.com/senzhiwu/status/2041456461054890487/photo/1",
+              "media_key": "3_2041456453517803520",
+              "start": 39,
+              "url": "https://t.co/r6NXXF3vM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041456461054890487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次女装喵🤓（其实是中性衣服）另：不要人参公鸡窝喵，窝知道窝长的不好看喵😭 https://t.co/r6NXXF3vM8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/可以来找我聊天但是回复很慢/当日记随时删/监护员@fghj87526441",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "fghj87526441"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039212303745421312/yNpBqqWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 95,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 110
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "生产日期2008 | mtf/x🏳️‍⚧️| ENTP-T | 轻度双相 | 没有x欲的废物xyn🥺&究极大爱慕😋| 🇲🇾留学生/常驻南京 欢迎来吉隆坡和南京找我玩喵 | 补药攻击窝 窝外貌就是个阴暗臭顺男😭| 最最好的大姐姐@SakurakuiGekka | 最最好的天使宝宝@Rain_Antar1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 113,
+                "username": "SakurakuiGekka"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "Rain_Antar1121"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039755166614958080/PTyVGD3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 107,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 349
+        },
+        "username": "senzhiwu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "生产日期2008 | mtf/x🏳️‍⚧️| ENTP-T | 轻度双相 | 没有x欲的废物xyn🥺&究极大爱慕😋| 🇲🇾留学生/常驻南京 欢迎来吉隆坡和南京找我玩喵 | 补药攻击窝 窝外貌就是个阴暗臭顺男😭| 最最好的大姐姐@SakurakuiGekka | 最最好的天使宝宝@Rain_Antar1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 113,
+                "username": "SakurakuiGekka"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "Rain_Antar1121"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039755166614958080/PTyVGD3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 107,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 349
+        },
+        "username": "senzhiwu",
+        "verified": true
+      }
+    ]
+  }
+}

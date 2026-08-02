@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051864700758130688"
+      ]
+    },
+    "author_id": "1845076547197353984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051864722446971130",
+    "created_at": "2026-05-06T03:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T04:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051864722446971130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2mBRZu2tni",
+          "end": 90,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2051864722446971130/photo/1",
+          "media_key": "3_2051864700758130688",
+          "start": 67,
+          "url": "https://t.co/2mBRZu2tni"
+        },
+        {
+          "display_url": "x.com/jutangxiao1229…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/jutangxiao1229/status/2050514188636930156",
+          "start": 91,
+          "url": "https://t.co/sGUC44m6sN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051864722446971130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050514188636930156",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "点菜回来了，本来想开右美托咪定的，结果说太频繁了开不出来，但是这次开到了2%的利多卡因(笑\n吐槽：现在菜都好小份₍ ᐢᴗ ˔ ᴗᐢ₎ https://t.co/2mBRZu2tni https://t.co/sGUC44m6sN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051864722446971130].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051864722446971130",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051864722446971130"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1579,
+        "media_key": "3_2051864700758130688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHmwEvfaAAANh67.jpg",
+        "width": 2048
+      },
+      {
+        "height": 710,
+        "media_key": "3_2050514183436083200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTjySaboAAvJGt.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050514183436083200"
+          ]
+        },
+        "author_id": "1845076547197353984",
+        "conversation_id": "2050514188636930156",
+        "created_at": "2026-05-02T09:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050514188636930156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0fvMowgUWg",
+              "end": 69,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2050514188636930156/photo/1",
+              "media_key": "3_2050514183436083200",
+              "start": 46,
+              "url": "https://t.co/0fvMowgUWg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050514188636930156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在单次点菜的量越来越少了ᴗ.ᴗ\n这次计划去点唑吡坦和阿普唑仑，其他还没想好•͈ᴗ⁃͈ ✧ https://t.co/0fvMowgUWg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 135,
+          "like_count": 2209,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 242
+        },
+        "username": "jutangxiao1229",
+        "verified": false
+      }
+    ]
+  }
+}

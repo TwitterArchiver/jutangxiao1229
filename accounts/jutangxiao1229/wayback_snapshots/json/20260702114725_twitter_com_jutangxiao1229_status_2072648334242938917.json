@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2072524641093271662",
+    "created_at": "2026-07-02T11:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072648334242938917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809233055196073984",
+          "start": 0,
+          "username": "Jy666992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072648334242938917",
+    "in_reply_to_user_id": "1809233055196073984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072524641093271662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jy666992 感觉高精力的很厉害\n但是我并不想成为高精力人士(笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2072524641093271662",
+        "created_at": "2026-07-02T11:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072648334242938917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809233055196073984",
+              "start": 0,
+              "username": "Jy666992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072648334242938917",
+        "in_reply_to_user_id": "1809233055196073984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072524641093271662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jy666992 感觉高精力的很厉害\n但是我并不想成为高精力人士(笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809233055196073984",
+        "conversation_id": "2072524641093271662",
+        "created_at": "2026-07-02T03:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072524641093271662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072524641093271662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 283,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道昨晚咋了就抽了所有大麻\n现在我只剩两根\n我他妈懒得上学了\n一帮高精力人\n光看着他们我都要累死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 183,
+          "like_count": 4063,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 423
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "光与水相遇 莲花自然生长\n时而像人时而像恶魔，暂时没找到解决方法\n我其实一直在寻找我到底怎么活着（真实的）\n在泰上学（脑子不好总惹事感觉哪天就要被开除）",
+        "id": "1809233055196073984",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2069854465931497694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 259,
+          "like_count": 1036,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 823
+        },
+        "url": "",
+        "username": "Jy666992",
+        "verified": false
+      }
+    ]
+  }
+}

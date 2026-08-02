@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2055185384255213980",
+    "created_at": "2026-05-15T08:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T09:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055206202112606520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753382378243035136",
+          "start": 0,
+          "username": "Kafuu_Chin0"
+        },
+        {
+          "end": 26,
+          "id": "1811843582229381123",
+          "start": 13,
+          "username": "RainduRhinns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055206202112606520",
+    "in_reply_to_user_id": "1753382378243035136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055201252640973150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kafuu_Chin0 @RainduRhinns 喷头可以参考制作dpt鼻喷的模式，直接买那种空的鼻喷瓶就行了吧\n՞･∞･՞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2055185384255213980",
+        "created_at": "2026-05-15T08:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055206202112606520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753382378243035136",
+              "start": 0,
+              "username": "Kafuu_Chin0"
+            },
+            {
+              "end": 26,
+              "id": "1811843582229381123",
+              "start": 13,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055206202112606520",
+        "in_reply_to_user_id": "1753382378243035136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055201252640973150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kafuu_Chin0 @RainduRhinns 喷头可以参考制作dpt鼻喷的模式，直接买那种空的鼻喷瓶就行了吧\n՞･∞･՞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753382378243035136",
+        "conversation_id": "2055185384255213980",
+        "created_at": "2026-05-15T08:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055201252640973150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055201252640973150",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055197752397832225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 那你买的是什么样的喷头？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 207,
+          "like_count": 3682,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 372
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-02T11:38:39.000Z",
+        "description": "碎碎念的反差JK喵~\n\n本推含有：\n性幻想/真实经历",
+        "id": "1753382378243035136",
+        "name": "香風 智乃",
+        "pinned_tweet_id": "1943345502684352700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754041014510383104/fNIYY5cp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 788,
+          "like_count": 9680,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 196
+        },
+        "username": "Kafuu_Chin0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 超级正太控请小男孩和我玩）炫压抑国男PhD转型男同博主失败中 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 117,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 907,
+          "like_count": 4388,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 2487
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

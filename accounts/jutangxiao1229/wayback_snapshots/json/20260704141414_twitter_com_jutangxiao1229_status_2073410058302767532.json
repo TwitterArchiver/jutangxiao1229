@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2071038766106739151",
+    "created_at": "2026-07-04T14:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T15:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073410058302767532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1779203068468531200",
+          "start": 0,
+          "username": "LastDinosaur23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073410058302767532",
+    "in_reply_to_user_id": "1779203068468531200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071038766106739151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LastDinosaur23 我也不喜欢正面对着医生(笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2071038766106739151",
+        "created_at": "2026-07-04T14:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073410058302767532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779203068468531200",
+              "start": 0,
+              "username": "LastDinosaur23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073410058302767532",
+        "in_reply_to_user_id": "1779203068468531200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071038766106739151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastDinosaur23 我也不喜欢正面对着医生(笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779203068468531200",
+        "conversation_id": "2071038766106739151",
+        "created_at": "2026-06-28T01:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071038766106739151"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071038766106739151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 713,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每见一个新医生都要被提一次asd，因为我是用侧面对着医生的（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jutangxiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jutangxiao",
+                "start": 0,
+                "url": "https://t.co/DUSIG2aP97"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 209,
+          "like_count": 4540,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 464
+        },
+        "url": "https://t.co/DUSIG2aP97",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-13T17:40:52.000Z",
+        "description": "祂带走了火，于是我在此处守候灰烬。\n在向上的路与向后的路之间，雪始终没有停。\nIt all will fall, fall right into place\n“万物皆流，唯有此处的寒冷恒常。”\n重焦，AuDHD，HRT2026.1.17",
+        "id": "1779203068468531200",
+        "location": "失乐园",
+        "name": "Mithridates VI",
+        "pinned_tweet_id": "2047357211945697579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050952083113955329/AxVOj-mN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 402,
+          "like_count": 4087,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 581
+        },
+        "url": "",
+        "username": "LastDinosaur23",
+        "verified": false
+      }
+    ]
+  }
+}

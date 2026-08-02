@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2052749833665155378",
+    "created_at": "2026-05-09T12:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053094032545579304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047273781098639360",
+          "start": 0,
+          "username": "Yamamotokoroshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053094032545579304",
+    "in_reply_to_user_id": "2047273781098639360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052749833665155378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamamotokoroshi 如果追求记录的话，可以降低剂量，然后用口服等方式削药物峰值(呕吐的概率也会降低)\n最后是强烈推荐地佐环平☆˶&gt; x &lt;˶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052749822546132993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzVFnGbwAEDJ51.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052749822181113856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzVFlvaAAAKI7l.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052749822172831744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzVFltboAAkwhe.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2052749833665155378",
+        "created_at": "2026-05-09T12:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053094032545579304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047273781098639360",
+              "start": 0,
+              "username": "Yamamotokoroshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053094032545579304",
+        "in_reply_to_user_id": "2047273781098639360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052749833665155378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamamotokoroshi 如果追求记录的话，可以降低剂量，然后用口服等方式削药物峰值(呕吐的概率也会降低)\n最后是强烈推荐地佐环平☆˶&gt; x &lt;˶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052749822546132993",
+            "3_2052749822181113856",
+            "3_2052749822172831744"
+          ]
+        },
+        "author_id": "2047273781098639360",
+        "conversation_id": "2052749833665155378",
+        "created_at": "2026-05-08T13:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052749833665155378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NizO8AGY3",
+              "end": 95,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2052749833665155378/photo/1",
+              "media_key": "3_2052749822546132993",
+              "start": 72,
+              "url": "https://t.co/8NizO8AGY3"
+            },
+            {
+              "display_url": "pic.x.com/8NizO8AGY3",
+              "end": 95,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2052749833665155378/photo/1",
+              "media_key": "3_2052749822181113856",
+              "start": 72,
+              "url": "https://t.co/8NizO8AGY3"
+            },
+            {
+              "display_url": "pic.x.com/8NizO8AGY3",
+              "end": 95,
+              "expanded_url": "https://x.com/Yamamotokoroshi/status/2052749833665155378/photo/1",
+              "media_key": "3_2052749822172831744",
+              "start": 72,
+              "url": "https://t.co/8NizO8AGY3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052749833665155378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1693,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实很好奇，解离剂怎么样能不断片，每次想写报告的时候都疯狂断片甚至都来不及记住到底发生了什么，最后备忘录里只有寥寥几句话？录音也想不起来... https://t.co/8NizO8AGY3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 200,
+          "like_count": 2957,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 306
+        },
+        "username": "jutangxiao1229",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "可以叫我小杀，退役Oder/不🔪🩸/不涉政/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/v21mMLt0Rs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/crV78t87GQeJ…",
+                "end": 128,
+                "expanded_url": "https://www.kdocs.cn/l/crV78t87GQeJ?f=301",
+                "start": 105,
+                "url": "https://t.co/v21mMLt0Rs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "✟山本殺し✟",
+        "pinned_tweet_id": "2049795181386621366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 425,
+          "like_count": 801,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 586
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      }
+    ]
+  }
+}

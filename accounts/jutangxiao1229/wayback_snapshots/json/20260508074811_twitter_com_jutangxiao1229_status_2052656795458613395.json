@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2052637998907339086",
+    "created_at": "2026-05-08T07:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052656795458613395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2040565175514779648",
+          "start": 0,
+          "username": "amber_digit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052656795458613395",
+    "in_reply_to_user_id": "2040565175514779648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052637998907339086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_digit 口服版本的司美吃起来很麻烦的，可以考虑一下礼来的Orforglipron，可在一天中任意时间服用，不受饮食或饮水限制，无需冷藏，吸收不受胃酸显著影响，方便非常多՞••՞"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 973,
+        "media_key": "3_2052637996483043328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxvYejXYAA4sum.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2052637998907339086",
+        "created_at": "2026-05-08T07:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052656795458613395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040565175514779648",
+              "start": 0,
+              "username": "amber_digit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052656795458613395",
+        "in_reply_to_user_id": "2040565175514779648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052637998907339086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit 口服版本的司美吃起来很麻烦的，可以考虑一下礼来的Orforglipron，可在一天中任意时间服用，不受饮食或饮水限制，无需冷藏，吸收不受胃酸显著影响，方便非常多՞••՞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052637996483043328"
+          ]
+        },
+        "author_id": "2040565175514779648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052637998907339086",
+        "created_at": "2026-05-08T06:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052637998907339086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nmVWpbRNTy",
+              "end": 32,
+              "expanded_url": "https://x.com/amber_digit/status/2052637998907339086/photo/1",
+              "media_key": "3_2052637996483043328",
+              "start": 9,
+              "url": "https://t.co/nmVWpbRNTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052637998907339086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1586,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严肃购入看看效果 https://t.co/nmVWpbRNTy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 160,
+          "like_count": 2638,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 278
+        },
+        "username": "jutangxiao1229",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T23:00:50.000Z",
+        "description": "previously: @amber_toffee @amber_medusozoa\n🏳️‍⚧️ ts/mtf\n🚪¥150/240 ($30/50)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 42,
+                "start": 26,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/8wrbgvlIrh"
+              }
+            ]
+          }
+        },
+        "id": "2040565175514779648",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2052283383942635587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052280202512719874/upe5_UUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 193,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1076
+        },
+        "url": "https://t.co/8wrbgvlIrh",
+        "username": "amber_digit",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2074025841734902262",
+    "created_at": "2026-07-06T07:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074031692915032169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1372184630753853444",
+          "start": 0,
+          "username": "ptilopsis_xiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074031692915032169",
+    "in_reply_to_user_id": "1372184630753853444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074025841734902262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ptilopsis_xiao 根据棠的经验，越是这类越有可能是水课，除非没人抢(bushi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 520,
+        "media_key": "3_2074025832377405440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhrgYHW0AAXWuO.png",
+        "width": 653
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2074025841734902262",
+        "created_at": "2026-07-06T07:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074031692915032169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1372184630753853444",
+              "start": 0,
+              "username": "ptilopsis_xiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074031692915032169",
+        "in_reply_to_user_id": "1372184630753853444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074025841734902262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ptilopsis_xiao 根据棠的经验，越是这类越有可能是水课，除非没人抢(bushi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074025832377405440"
+          ]
+        },
+        "author_id": "1372184630753853444",
+        "conversation_id": "2074025841734902262",
+        "created_at": "2026-07-06T07:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074025841734902262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oylhBkANSo",
+              "end": 28,
+              "expanded_url": "https://x.com/ptilopsis_xiao/status/2074025841734902262/photo/1",
+              "media_key": "3_2074025832377405440",
+              "start": 5,
+              "url": "https://t.co/oylhBkANSo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074025841734902262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 43,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是啥课 https://t.co/oylhBkANSo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jutangxiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jutangxiao",
+                "start": 0,
+                "url": "https://t.co/DUSIG2aP97"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "pinned_tweet_id": "2073985714845549001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 208,
+          "like_count": 5343,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 516
+        },
+        "url": "https://t.co/DUSIG2aP97",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-17T13:54:56.000Z",
+        "description": "一只黎博利｜胶片摄影｜Bioscience",
+        "id": "1372184630753853444",
+        "location": "莱茵生命",
+        "name": "氯鸮西泮🦉",
+        "pinned_tweet_id": "2051268550036529555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993287302626656261/tsaXIYnb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2886,
+          "following_count": 1611,
+          "like_count": 37414,
+          "listed_count": 3,
+          "media_count": 511,
+          "tweet_count": 3897
+        },
+        "url": "",
+        "username": "ptilopsis_xiao",
+        "verified": false
+      }
+    ]
+  }
+}

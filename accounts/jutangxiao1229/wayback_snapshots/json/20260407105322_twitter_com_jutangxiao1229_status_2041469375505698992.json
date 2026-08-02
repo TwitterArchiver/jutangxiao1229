@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2041190677153980449",
+    "created_at": "2026-04-07T10:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T11:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041469375505698992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823405068034744320",
+          "start": 0,
+          "username": "hown530150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041469375505698992",
+    "in_reply_to_user_id": "1823405068034744320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041190677153980449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hown530150 好真实！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2041190677153980449",
+        "created_at": "2026-04-07T10:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041469375505698992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823405068034744320",
+              "start": 0,
+              "username": "hown530150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041469375505698992",
+        "in_reply_to_user_id": "1823405068034744320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041190677153980449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hown530150 好真实！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823405068034744320",
+        "conversation_id": "2041190677153980449",
+        "created_at": "2026-04-06T16:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041190677153980449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/willingbnc7558…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/willingbnc75588/status/2041092480180134388",
+              "start": 22,
+              "url": "https://t.co/70adSPmaot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041190677153980449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10623,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041092480180134388",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会有人想来帮你解决痛苦的行不行。顺便看看b https://t.co/70adSPmaot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/可以来找我聊天但是回复很慢/当日记随时删/监护员@fghj87526441",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "fghj87526441"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039212303745421312/yNpBqqWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 96,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 114
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-13T17:03:48.000Z",
+        "description": "焦虑中。。。",
+        "id": "1823405068034744320",
+        "name": "喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004825093667782656/l4DFY3mF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 909,
+          "like_count": 10616,
+          "listed_count": 1,
+          "media_count": 277,
+          "tweet_count": 8681
+        },
+        "username": "hown530150",
+        "verified": false
+      }
+    ]
+  }
+}

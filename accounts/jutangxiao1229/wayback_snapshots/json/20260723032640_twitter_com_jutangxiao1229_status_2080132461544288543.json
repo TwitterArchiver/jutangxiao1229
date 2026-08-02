@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2080051326080487434",
+    "created_at": "2026-07-23T03:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T04:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080132461544288543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1305129071563534337",
+          "start": 0,
+          "username": "Ikyozi_SiYou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080132461544288543",
+    "in_reply_to_user_id": "1305129071563534337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080082854265098463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ikyozi_SiYou 前面三四个小时类似于pcp，但是效果更弱，后面的体验基本维持在超弱效解离～\n总体评价一般"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2080051326080487434",
+        "created_at": "2026-07-23T03:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080132461544288543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1305129071563534337",
+              "start": 0,
+              "username": "Ikyozi_SiYou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080132461544288543",
+        "in_reply_to_user_id": "1305129071563534337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080082854265098463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ikyozi_SiYou 前面三四个小时类似于pcp，但是效果更弱，后面的体验基本维持在超弱效解离～\n总体评价一般"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1305129071563534337",
+        "conversation_id": "2080051326080487434",
+        "created_at": "2026-07-23T00:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T01:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080082854265098463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080082854265098463",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080051326080487434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 美金刚吃起来是怎样呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2390,
+          "following_count": 250,
+          "like_count": 11591,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 693
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-13T13:00:03.000Z",
+        "description": "明月入怀，载月明归。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ikyozi_cn",
+                "end": 23,
+                "expanded_url": "https://t.me/ikyozi_cn",
+                "start": 0,
+                "url": "https://t.co/RpEkndCDmL"
+              }
+            ]
+          }
+        },
+        "id": "1305129071563534337",
+        "location": "Tientsin, CN",
+        "name": "IKYOZi",
+        "pinned_tweet_id": "2026996520369983940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073165726131904512/cj_S-eij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 348,
+          "like_count": 17126,
+          "listed_count": 6,
+          "media_count": 252,
+          "tweet_count": 1669
+        },
+        "url": "https://t.co/RpEkndCDmL",
+        "username": "Ikyozi_SiYou",
+        "verified": false
+      }
+    ]
+  }
+}

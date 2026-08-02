@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2050129259059204533",
+    "created_at": "2026-05-01T08:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T09:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050129259059204533"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jutangxiao1229…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/jutangxiao1229/status/2048594657379250502",
+          "start": 28,
+          "url": "https://t.co/itrFydUPd4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050129259059204533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048594657379250502",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "文拉法辛减量果然还是超绝胃肠道反应和剧烈头痛ŏ̥ㅁŏ̥ https://t.co/itrFydUPd4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2050129259059204533",
+        "created_at": "2026-05-01T08:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050129259059204533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jutangxiao1229…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/jutangxiao1229/status/2048594657379250502",
+              "start": 28,
+              "url": "https://t.co/itrFydUPd4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050129259059204533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048594657379250502",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "文拉法辛减量果然还是超绝胃肠道反应和剧烈头痛ŏ̥ㅁŏ̥ https://t.co/itrFydUPd4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2048594657379250502",
+        "created_at": "2026-04-27T02:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048594657379250502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048594657379250502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 103,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想去尝试一下DPT，但是我现在在吃高剂量的文拉法辛(225mg/d)，只能趁医生不注意慢慢减下去了，可能得3周+才能完全减完(还要面对文拉法辛戒断，天呐)\nŏ̥ㅁŏ̥\n不过还好可以使用3-Me-PCP宝宝₍ ᐢᴗ ˔ ᴗᐢ₎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 124,
+          "like_count": 1829,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 206
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

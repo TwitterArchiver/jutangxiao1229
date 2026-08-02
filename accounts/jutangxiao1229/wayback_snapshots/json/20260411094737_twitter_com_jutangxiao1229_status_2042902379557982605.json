@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2042817942006698318",
+    "created_at": "2026-04-11T09:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042902379557982605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1832688819017277440",
+          "start": 0,
+          "username": "homeCollider"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042902379557982605",
+    "in_reply_to_user_id": "1832688819017277440",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042817942006698318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@homeCollider ꪔ̤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2042817942006698318",
+        "created_at": "2026-04-11T09:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042902379557982605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1832688819017277440",
+              "start": 0,
+              "username": "homeCollider"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042902379557982605",
+        "in_reply_to_user_id": "1832688819017277440",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042817942006698318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@homeCollider ꪔ̤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832688819017277440",
+        "conversation_id": "2042817942006698318",
+        "created_at": "2026-04-11T04:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042817942006698318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042817942006698318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2400,
+          "like_count": 58,
+          "quote_count": 1,
+          "reply_count": 56,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我正在建立推特泛 MtF 群体 SKILL 库，评论我任意内容同意加入。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/可以来找我聊天但是回复很慢/当日记随时删/监护员@fghj87526441",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "fghj87526441"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039212303745421312/yNpBqqWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 96,
+          "like_count": 784,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 141
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-08T07:54:25.000Z",
+        "description": "🏳️‍⚧️ MtF | 架构师 | 讼棍 | Quantic MBA '26 | 水母饲养员\n赢得中国首宗涉跨性别保险纠纷 | 神经罕见病患者\n- 部署你的 X Agent 账号: https://t.co/oxPjs4Nzen\n- 如果哪天我不在了，请忘记我，这是我的愿望。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jellyfishai.org",
+                "end": 114,
+                "expanded_url": "http://jellyfishai.org",
+                "start": 91,
+                "url": "https://t.co/oxPjs4Nzen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/carolynsun",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/carolynsun",
+                "start": 0,
+                "url": "https://t.co/NGUZW7F9S9"
+              }
+            ]
+          }
+        },
+        "id": "1832688819017277440",
+        "name": "家用粒子对撞机",
+        "pinned_tweet_id": "1981006583816753388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039767465450983424/yYDG7LJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 267,
+          "like_count": 1333,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 573
+        },
+        "url": "https://t.co/NGUZW7F9S9",
+        "username": "homeCollider",
+        "verified": true
+      }
+    ]
+  }
+}

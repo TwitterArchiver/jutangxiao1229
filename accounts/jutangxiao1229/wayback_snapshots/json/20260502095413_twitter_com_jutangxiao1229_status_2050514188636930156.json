@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050514183436083200"
+      ]
+    },
+    "author_id": "1845076547197353984",
+    "conversation_id": "2050514188636930156",
+    "created_at": "2026-05-02T09:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T10:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050514188636930156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0fvMowgUWg",
+          "end": 69,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2050514188636930156/photo/1",
+          "media_key": "3_2050514183436083200",
+          "start": 46,
+          "url": "https://t.co/0fvMowgUWg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050514188636930156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在单次点菜的量越来越少了ᴗ.ᴗ\n这次计划去点唑吡坦和阿普唑仑，其他还没想好•͈ᴗ⁃͈ ✧ https://t.co/0fvMowgUWg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050514188636930156].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050514188636930156",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050514188636930156"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 710,
+        "media_key": "3_2050514183436083200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTjySaboAAvJGt.jpg",
+        "width": 968
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 125,
+          "like_count": 1886,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 213
+        },
+        "username": "jutangxiao1229",
+        "verified": false
+      }
+    ]
+  }
+}

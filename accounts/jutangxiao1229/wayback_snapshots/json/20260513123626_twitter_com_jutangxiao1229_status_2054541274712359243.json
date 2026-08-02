@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2054538160999411722",
+    "created_at": "2026-05-13T12:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054541274712359243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1448206950903255040",
+          "start": 0,
+          "username": "_Shikieiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054541274712359243",
+    "in_reply_to_user_id": "1448206950903255040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054538160999411722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Shikieiki 周日阿普唑仑（GABA）、周一莱博雷生（食欲素）、周二右美托咪定（α2）、周三地佐环平（NMDA）、周四普瑞巴林（钙通道）、周五曲唑酮（5-HT2A+H1）、周六苯海拉明（H1）\nᰔᩚ/•᷅•᷄\\\\୭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2054538160999411722",
+        "created_at": "2026-05-13T12:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054541274712359243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054541274712359243",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054538160999411722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 周日阿普唑仑（GABA）、周一莱博雷生（食欲素）、周二右美托咪定（α2）、周三地佐环平（NMDA）、周四普瑞巴林（钙通道）、周五曲唑酮（5-HT2A+H1）、周六苯海拉明（H1）\nᰔᩚ/•᷅•᷄\\\\୭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2054538160999411722",
+        "created_at": "2026-05-13T12:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054538160999411722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054538160999411722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果能有7种耐受不交叉的物质我每天吃一种就好了)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1702,
+          "following_count": 201,
+          "like_count": 3389,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 353
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的\n不负魔法少女之名！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)暂关提问",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2053378863976284363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 924,
+          "like_count": 28197,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 4062
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

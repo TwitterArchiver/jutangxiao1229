@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046502321706897408"
+      ]
+    },
+    "author_id": "1845076547197353984",
+    "conversation_id": "2046502338207314166",
+    "created_at": "2026-04-21T08:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T09:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046502338207314166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/44pnawujMy",
+          "end": 150,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2046502338207314166/photo/1",
+          "media_key": "3_2046502321706897408",
+          "start": 127,
+          "url": "https://t.co/44pnawujMy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046502338207314166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "--点菜环节--\n😺：我想要CPA\n👨🏻‍⚕️：......\n😺：就是环丙孕酮\n👨🏻‍⚕️：螺内酯不好吗，也行吧，那就换醋酸环丙孕酮片，剂量是...\n😺：12.5mg一天，效果好甚至可以6.25mg一天\n👨🏻‍⚕️：(皱眉小表情)\nʢ˶ᵒ ᵕ ˂˶ʡᶻ https://t.co/44pnawujMy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046502338207314166].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046502338207314166",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046502338207314166"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2046502321706897408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGajBM1aEAATbbx.jpg",
+        "width": 2252
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员@fghj87526441",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 86,
+                "username": "fghj87526441"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039212303745421312/yNpBqqWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 89,
+          "like_count": 1136,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 160
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

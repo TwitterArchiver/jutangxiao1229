@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2052930962410111158",
+    "created_at": "2026-05-09T06:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T07:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052999799407014047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047273781098639360",
+          "start": 0,
+          "username": "Yamamotokoroshi"
+        },
+        {
+          "end": 30,
+          "id": "1680367973884735488",
+          "start": 17,
+          "username": "imgyeong8077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052999799407014047",
+    "in_reply_to_user_id": "2047273781098639360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052949771816718442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamamotokoroshi @imgyeong8077 期待测评～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2052930962410111158",
+        "created_at": "2026-05-09T06:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052999799407014047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047273781098639360",
+              "start": 0,
+              "username": "Yamamotokoroshi"
+            },
+            {
+              "end": 30,
+              "id": "1680367973884735488",
+              "start": 17,
+              "username": "imgyeong8077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052999799407014047",
+        "in_reply_to_user_id": "2047273781098639360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052949771816718442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamamotokoroshi @imgyeong8077 期待测评～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047273781098639360",
+        "conversation_id": "2052930962410111158",
+        "created_at": "2026-05-09T03:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052949771816718442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680367973884735488",
+              "start": 0,
+              "username": "imgyeong8077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052949771816718442",
+        "in_reply_to_user_id": "1680367973884735488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 297,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052937046466207906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imgyeong8077 已严肃购入"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 182,
+          "like_count": 2813,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 291
+        },
+        "username": "jutangxiao1229",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T11:24:20.000Z",
+        "description": "可以叫我小杀，退役Oder/不🔪🩸/不涉政/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/二三涉/药理学习中/随缘互fo/但请不要问我物质渠道，也不出售任何物质，可匿名可私信提问\n关于个人trip报告👇🏻\nhttps://t.co/v21mMLt0Rs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/crV78t87GQeJ…",
+                "end": 128,
+                "expanded_url": "https://www.kdocs.cn/l/crV78t87GQeJ?f=301",
+                "start": 105,
+                "url": "https://t.co/v21mMLt0Rs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/N7xkTQ0fnX"
+              }
+            ]
+          }
+        },
+        "id": "2047273781098639360",
+        "location": "✟升天✟",
+        "name": "✟山本殺し✟",
+        "pinned_tweet_id": "2049795181386621366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 419,
+          "like_count": 785,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 575
+        },
+        "url": "https://t.co/N7xkTQ0fnX",
+        "username": "Yamamotokoroshi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T00:05:29.000Z",
+        "description": "小璟/6P97｜08｜双性恋｜我🔪🚬🍺💊LGBTQ+友好 \n喜欢体验新鲜事物 什么都往这里扔\n查看主页喜欢你就我就fo你 乖宝宝们请和我互fo^o^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%92%9F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F0.o",
+                "start": 0,
+                "url": "https://t.co/KSf6miGkl9"
+              }
+            ]
+          }
+        },
+        "id": "1680367973884735488",
+        "name": "璟璟璟璟璟璟0.o",
+        "pinned_tweet_id": "2040823390152651093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043407189533237248/1sRY0hb__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 155,
+          "like_count": 1348,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 951
+        },
+        "url": "https://t.co/KSf6miGkl9",
+        "username": "imgyeong8077",
+        "verified": false
+      }
+    ]
+  }
+}

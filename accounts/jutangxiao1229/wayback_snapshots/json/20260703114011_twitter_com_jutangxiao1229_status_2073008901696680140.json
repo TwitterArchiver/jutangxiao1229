@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2072688472499142701",
+    "created_at": "2026-07-03T11:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T12:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073008901696680140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2034091214765740032",
+          "start": 0,
+          "username": "100__kkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073008901696680140",
+    "in_reply_to_user_id": "2034091214765740032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072688472499142701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@100__kkk 隠した方がいいと思います\n物質乱用って判断されちゃうと、警察に通報されたり強制入院にされるお医者さんもいるみたいなので… \n包み隠さず話すのはリスクが高いですよ\n՞••՞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2072688472499142701",
+        "created_at": "2026-07-03T11:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073008901696680140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2034091214765740032",
+              "start": 0,
+              "username": "100__kkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073008901696680140",
+        "in_reply_to_user_id": "2034091214765740032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072688472499142701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@100__kkk 隠した方がいいと思います\n物質乱用って判断されちゃうと、警察に通報されたり強制入院にされるお医者さんもいるみたいなので… \n包み隠さず話すのはリスクが高いですよ\n՞••՞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034091214765740032",
+        "conversation_id": "2072688472499142701",
+        "created_at": "2026-07-02T14:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072688472499142701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072688472499142701",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3780,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精神科通ってて0️⃣dしてる方に聞きたいです！！0️⃣dしてることは隠した方がいいですか！！それとも包み隠さず話した方がいいですか！！どなたか教えてください😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "pinned_tweet_id": "2072675446513410329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 199,
+          "like_count": 4272,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 446
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-18T02:15:12.000Z",
+        "description": "本垢凍結されました許しません\n本垢→@you_8_ta",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "you_8_ta"
+              }
+            ]
+          }
+        },
+        "id": "2034091214765740032",
+        "location": "彼氏います",
+        "name": "ああああ",
+        "pinned_tweet_id": "2069659956807385555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069704836548108288/vhyx80e2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 137,
+          "like_count": 2415,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "100__kkk",
+        "verified": false
+      }
+    ]
+  }
+}

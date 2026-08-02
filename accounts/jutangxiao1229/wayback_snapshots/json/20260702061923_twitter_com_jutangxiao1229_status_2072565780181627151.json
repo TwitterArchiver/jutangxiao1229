@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2072565780181627151",
+    "created_at": "2026-07-02T06:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T07:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072565780181627151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jutangxiao1229…",
+          "end": 174,
+          "expanded_url": "https://twitter.com/jutangxiao1229/status/2056704313905529264",
+          "start": 151,
+          "url": "https://t.co/8pkBwjY4Wn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072565780181627151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056704313905529264",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "成功离职了～\n虽然我的+1给到了一个月假期加回归后半月低工作量加三天的outing假(好好的leader，如果我是真的病假估计会很心动)˶&gt;ᗜ&lt;˶\n但是我公司的人并不知道我是zs失败才请了这么多天假，知道真实原因后大家想法又会发生改变，不如说准备更久的休养周期，所以才离职的(｡- .•) https://t.co/8pkBwjY4Wn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 267,
+        "media_key": "3_2056704311699402754",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrhrLLbcAIRHPX.jpg",
+        "width": 184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2072565780181627151",
+        "created_at": "2026-07-02T06:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T07:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072565780181627151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jutangxiao1229…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/jutangxiao1229/status/2056704313905529264",
+              "start": 151,
+              "url": "https://t.co/8pkBwjY4Wn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072565780181627151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056704313905529264",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "成功离职了～\n虽然我的+1给到了一个月假期加回归后半月低工作量加三天的outing假(好好的leader，如果我是真的病假估计会很心动)˶&gt;ᗜ&lt;˶\n但是我公司的人并不知道我是zs失败才请了这么多天假，知道真实原因后大家想法又会发生改变，不如说准备更久的休养周期，所以才离职的(｡- .•) https://t.co/8pkBwjY4Wn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056704311699402754"
+          ]
+        },
+        "author_id": "1845076547197353984",
+        "conversation_id": "2056704313905529264",
+        "created_at": "2026-05-19T11:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056704313905529264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v4OJ8CaYqr",
+              "end": 140,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2056704313905529264/photo/1",
+              "media_key": "3_2056704311699402754",
+              "start": 117,
+              "url": "https://t.co/v4OJ8CaYqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056704313905529264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "棠应该要暂时淡推了\n\n得益于棠的独立计划，目前已经找到工作了\n坏消息：新工作貌似是996，大家都好忙，棠这种低精力人士第一天就感觉到超级累\n好消息：可以接触超级多的神秘物质和大型灭菌设备了\n\n祝大家生活愉快～\nε(´｡•᎑•`)っ♡ https://t.co/v4OJ8CaYqr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 180,
+          "like_count": 3994,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 406
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": false
+      }
+    ]
+  }
+}

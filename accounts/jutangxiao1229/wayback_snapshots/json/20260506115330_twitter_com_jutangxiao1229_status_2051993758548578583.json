@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2051956408141115764",
+    "created_at": "2026-05-06T11:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051993758548578583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1486946165937651716",
+          "start": 0,
+          "username": "IZUNA347"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051993758548578583",
+    "in_reply_to_user_id": "1486946165937651716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051956408141115764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IZUNA347 如果宿舍是同一个局域网，并且大喊大叫沟通后多次还不改，可以试试网络类攻击，比如ARP断网攻击等，或者你们学校有没有单人寝室，我们学校单人寝室一年是7000，舒服很多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2051956408141115764",
+        "created_at": "2026-05-06T11:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051993758548578583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1486946165937651716",
+              "start": 0,
+              "username": "IZUNA347"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051993758548578583",
+        "in_reply_to_user_id": "1486946165937651716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051956408141115764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IZUNA347 如果宿舍是同一个局域网，并且大喊大叫沟通后多次还不改，可以试试网络类攻击，比如ARP断网攻击等，或者你们学校有没有单人寝室，我们学校单人寝室一年是7000，舒服很多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486946165937651716",
+        "conversation_id": "2051956408141115764",
+        "created_at": "2026-05-06T09:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051956408141115764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051956408141115764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想偷偷割手但是宿舍里还有其他三个舍友 我也总觉得不好意思 想偷偷哭但是如果影响到舍友的话又有点不太好 我只能吃药药了 嗯对 但是超雄舍友总是打瓦大吼大叫的我戴耳机都不管用 我不行了我好懵逼 可是每天都是满课我好想哭我可不可以休学了呀导员 对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 142,
+          "like_count": 2404,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 262
+        },
+        "username": "jutangxiao1229",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-28T06:16:23.000Z",
+        "description": "HE/HIM🏳️‍🌈-SHTWT 988TWT-JUST BLOCK DONT REPORT-@hhhhh87010291",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 47,
+                "username": "hhhhh87010291"
+              }
+            ]
+          }
+        },
+        "id": "1486946165937651716",
+        "name": "izuna",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050764511968423936/C-ruJmhZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 240,
+          "like_count": 5897,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 1015
+        },
+        "username": "IZUNA347",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052997876419354624"
+      ]
+    },
+    "author_id": "1845076547197353984",
+    "conversation_id": "2052997881871933890",
+    "created_at": "2026-05-09T06:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T07:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052997881871933890"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vcjakS9jdR",
+          "end": 51,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2052997881871933890/photo/1",
+          "media_key": "3_2052997876419354624",
+          "start": 28,
+          "url": "https://t.co/vcjakS9jdR"
+        },
+        {
+          "display_url": "x.com/sakana_siujyu/…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/sakana_siujyu/status/2052881186402529443",
+          "start": 52,
+          "url": "https://t.co/WtryW8D3lK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052997881871933890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052881186402529443",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天刚刷到一个临床案例就是右美沙芬糖浆₍ᐢ๑ ̯๑ᐢ₎ https://t.co/vcjakS9jdR https://t.co/WtryW8D3lK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052997881871933890].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052997881871933890",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052997881871933890"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2052997876419354624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH22sPybYAAN7x3.jpg",
+        "width": 464
+      },
+      {
+        "height": 1290,
+        "media_key": "3_2052881174880727040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1MjUraMAAgt-J.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052881174880727040"
+          ]
+        },
+        "author_id": "1933201065677377536",
+        "conversation_id": "2052881186402529443",
+        "created_at": "2026-05-08T22:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052881186402529443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D7lcNUOvAw",
+              "end": 44,
+              "expanded_url": "https://x.com/sakana_siujyu/status/2052881186402529443/photo/1",
+              "media_key": "3_2052881174880727040",
+              "start": 21,
+              "url": "https://t.co/D7lcNUOvAw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052881186402529443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 811,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在美團上看見這個 \n喝飽了還沒到第一高原 https://t.co/D7lcNUOvAw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 180,
+          "like_count": 2783,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 290
+        },
+        "username": "jutangxiao1229",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T16:33:55.000Z",
+        "description": "INFP｜bmi16.2 ｜社會自由主義｜ MDD SAD｜Od｜SH｜慢熱但友善 歡迎交友｜Ban噁男",
+        "id": "1933201065677377536",
+        "location": "香港",
+        "name": "小魚🐟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021889802199871489/nIWfUR8o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 278,
+          "like_count": 800,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 199
+        },
+        "username": "sakana_siujyu",
+        "verified": false
+      }
+    ]
+  }
+}

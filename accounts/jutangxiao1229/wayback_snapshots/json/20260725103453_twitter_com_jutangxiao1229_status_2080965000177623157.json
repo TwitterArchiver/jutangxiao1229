@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2080961144085414073",
+    "created_at": "2026-07-25T10:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080965000177623157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1643934829514493952",
+          "start": 0,
+          "username": "nmudm1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080965000177623157",
+    "in_reply_to_user_id": "1643934829514493952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080962290237776096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nmudm1 是dxm+氟伏沙明+pr+鸡尘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2080961144085414073",
+        "created_at": "2026-07-25T10:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080965000177623157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1643934829514493952",
+              "start": 0,
+              "username": "nmudm1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080965000177623157",
+        "in_reply_to_user_id": "1643934829514493952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080962290237776096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nmudm1 是dxm+氟伏沙明+pr+鸡尘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643934829514493952",
+        "conversation_id": "2080961144085414073",
+        "created_at": "2026-07-25T10:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080962290237776096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080962290237776096",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080961144085414073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 巴氯芬+普瑞模拟叶子吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2708,
+          "following_count": 250,
+          "like_count": 11933,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 706
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-06T11:13:08.000Z",
+        "description": "做个俗人，贪财好色",
+        "id": "1643934829514493952",
+        "name": "Yeshua（努力搞钱版",
+        "pinned_tweet_id": "2042425623885594767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066174205591515136/rWWKmDCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 28,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 252
+        },
+        "url": "",
+        "username": "nmudm1",
+        "verified": false
+      }
+    ]
+  }
+}

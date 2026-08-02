@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2075203097857819060",
+    "created_at": "2026-07-09T14:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T15:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075221279419027819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2034865150499725313",
+          "start": 0,
+          "username": "Weberkaliro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075221279419027819",
+    "in_reply_to_user_id": "2034865150499725313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075203097857819060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Weberkaliro 如果你体毛比较旺盛的话，最好是进行几次激光脱毛，然后再评估hrt对体毛的影响～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2075203097857819060",
+        "created_at": "2026-07-09T14:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075221279419027819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2034865150499725313",
+              "start": 0,
+              "username": "Weberkaliro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075221279419027819",
+        "in_reply_to_user_id": "2034865150499725313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075203097857819060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Weberkaliro 如果你体毛比较旺盛的话，最好是进行几次激光脱毛，然后再评估hrt对体毛的影响～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034865150499725313",
+        "conversation_id": "2075203097857819060",
+        "created_at": "2026-07-09T12:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075203097857819060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075203097857819060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的还要继续hrt吗，一点意义都没有，焦虑缓解不了，600多天过去也不pass，甚至连体毛都抑制不住，只能看着自己gd想拿刀把自己肢解了\n好难受啊....."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "pinned_tweet_id": "2073985714845549001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 237,
+          "like_count": 6757,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 589
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-20T05:30:58.000Z",
+        "description": "MTF|ZH/ENG/DE/LAT|Medicine or O-Chemistry|Medicine Student in CN|Love: @emm101215|精分 躁郁 ADHD 社交障碍⚠|家暴-天残-无证含糖\n想和咱深入交流的里账号：@kaliroweber",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "emm101215"
+              },
+              {
+                "end": 134,
+                "start": 122,
+                "username": "kaliroweber"
+              }
+            ]
+          }
+        },
+        "id": "2034865150499725313",
+        "name": "科利尔🏳️‍⚧️Kaliro🍥",
+        "pinned_tweet_id": "2034961012794024311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034865262240178178/A0F7SCg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 1618,
+          "like_count": 4823,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 892
+        },
+        "url": "",
+        "username": "Weberkaliro",
+        "verified": false
+      }
+    ]
+  }
+}

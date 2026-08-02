@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2054235828105130483",
+    "created_at": "2026-05-13T09:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T10:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054488584623927668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997644719908884480",
+          "start": 0,
+          "username": "Oz_Garlandd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054488584623927668",
+    "in_reply_to_user_id": "1997644719908884480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054235828105130483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oz_Garlandd 肌肉痛的话普瑞其实效果不太明显\n(｡- .•)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2054235828105130483",
+        "created_at": "2026-05-13T09:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054488584623927668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054488584623927668",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054235828105130483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 肌肉痛的话普瑞其实效果不太明显\n(｡- .•)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997644719908884480",
+        "conversation_id": "2054235828105130483",
+        "created_at": "2026-05-12T16:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054235828105130483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054235828105130483",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "靠了今天打太鼓达人浑身痛死了..能不能吃普瑞压一下！😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 189,
+          "like_count": 3277,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 346
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 231,
+          "like_count": 18876,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1220
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

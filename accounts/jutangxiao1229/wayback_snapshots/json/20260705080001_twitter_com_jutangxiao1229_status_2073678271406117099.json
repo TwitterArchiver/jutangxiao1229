@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2073324895614939218",
+    "created_at": "2026-07-05T08:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T09:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073678271406117099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047419861606051840",
+          "start": 0,
+          "username": "Kanaderu_kas"
+        },
+        {
+          "end": 30,
+          "id": "1813786364930064384",
+          "start": 14,
+          "username": "zhngxny48875771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073678271406117099",
+    "in_reply_to_user_id": "2047419861606051840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073673471280951565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kanaderu_kas @zhngxny48875771 要用点护色的洗发水，可以延迟很久"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2073324895614939218",
+        "created_at": "2026-07-05T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073678271406117099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047419861606051840",
+              "start": 0,
+              "username": "Kanaderu_kas"
+            },
+            {
+              "end": 30,
+              "id": "1813786364930064384",
+              "start": 14,
+              "username": "zhngxny48875771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073678271406117099",
+        "in_reply_to_user_id": "2047419861606051840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073673471280951565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanaderu_kas @zhngxny48875771 要用点护色的洗发水，可以延迟很久"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047419861606051840",
+        "conversation_id": "2073324895614939218",
+        "created_at": "2026-07-05T07:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073673471280951565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813786364930064384",
+              "start": 0,
+              "username": "zhngxny48875771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073673471280951565",
+        "in_reply_to_user_id": "1813786364930064384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073324895614939218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngxny48875771 羡慕 我已经变成黄毛了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jutangxiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jutangxiao",
+                "start": 0,
+                "url": "https://t.co/DUSIG2aP97"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 212,
+          "like_count": 5069,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 482
+        },
+        "url": "https://t.co/DUSIG2aP97",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-23T21:00:32.000Z",
+        "description": "极速互fo没回关就是在睡觉/19岁/简中🇨🇳繁中🇭🇰日语🇯🇵/🩸🔪/od/重躁鬱/强迫/精神分裂/人格分裂/解离型漫游/倾诉欲望高/打扰到您的话抱歉/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kanaderu_kas",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kanaderu_kas",
+                "start": 0,
+                "url": "https://t.co/J7o7eFQA18"
+              }
+            ]
+          }
+        },
+        "id": "2047419861606051840",
+        "location": "塔不灭喵",
+        "name": "Kanaderu",
+        "pinned_tweet_id": "2061135115192045576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072458347316740096/1CZZGaRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 65,
+          "like_count": 403,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 363
+        },
+        "url": "https://t.co/J7o7eFQA18",
+        "username": "Kanaderu_kas",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T04:02:31.000Z",
+        "description": "抑郁症，双相，焦虑，精神分裂的小猫女孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nzl.com",
+                "end": 23,
+                "expanded_url": "http://nzl.com",
+                "start": 0,
+                "url": "https://t.co/sHwAlSJT0v"
+              }
+            ]
+          }
+        },
+        "id": "1813786364930064384",
+        "location": "泰拉大陸",
+        "name": "猫呼吸",
+        "pinned_tweet_id": "2057463128204685720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058989933973704704/c5TzSLTk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 134,
+          "like_count": 9134,
+          "listed_count": 2,
+          "media_count": 392,
+          "tweet_count": 1053
+        },
+        "url": "https://t.co/sHwAlSJT0v",
+        "username": "zhngxny48875771",
+        "verified": false
+      }
+    ]
+  }
+}

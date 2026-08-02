@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055818637915955200"
+      ]
+    },
+    "author_id": "1845076547197353984",
+    "conversation_id": "2055999606677516333",
+    "created_at": "2026-05-17T13:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055999606677516333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LO5wmoLFUC",
+          "end": 53,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2055999606677516333/photo/1",
+          "media_key": "3_2055818637915955200",
+          "start": 30,
+          "url": "https://t.co/LO5wmoLFUC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055999606677516333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "棠棠大王闪亮归来(｡- .•)\n远古雪兔怎么也举报啊•᎔• https://t.co/LO5wmoLFUC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055999606677516333].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055999606677516333",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055999606677516333"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055818637915955200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIe8KLOboAAgZON.jpg",
+        "width": 869
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 220,
+          "like_count": 3893,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 387
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

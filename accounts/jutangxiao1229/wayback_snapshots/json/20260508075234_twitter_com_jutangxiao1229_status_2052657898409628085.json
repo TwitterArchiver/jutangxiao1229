@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052657892181131264"
+      ]
+    },
+    "author_id": "1845076547197353984",
+    "conversation_id": "2052637998907339086",
+    "created_at": "2026-05-08T07:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052657898409628085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1989965282799226880",
+          "start": 0,
+          "username": "DQadopt"
+        },
+        {
+          "end": 21,
+          "id": "2040565175514779648",
+          "start": 9,
+          "username": "amber_digit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g7rrN0LIee",
+          "end": 66,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2052657898409628085/photo/1",
+          "media_key": "3_2052657892181131264",
+          "start": 43,
+          "url": "https://t.co/g7rrN0LIee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052657898409628085",
+    "in_reply_to_user_id": "1989965282799226880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052652414612938762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DQadopt @amber_digit 可以参考一下，司美格鲁肽片说明书上描述的 https://t.co/g7rrN0LIee"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052657898409628085].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052657898409628085",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052657898409628085"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1035,
+        "media_key": "3_2052657892181131264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyBejzbwAAyuvY.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989965282799226880",
+        "conversation_id": "2052637998907339086",
+        "created_at": "2026-05-08T07:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052652414612938762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040565175514779648",
+              "start": 0,
+              "username": "amber_digit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052652414612938762",
+        "in_reply_to_user_id": "2040565175514779648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052637998907339086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit 我去搞的我也想吃了，有啥副作用吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 160,
+          "like_count": 2639,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 279
+        },
+        "username": "jutangxiao1229",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 343,
+          "like_count": 3366,
+          "listed_count": 1,
+          "media_count": 363,
+          "tweet_count": 3953
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T23:00:50.000Z",
+        "description": "previously: @amber_toffee @amber_medusozoa\n🏳️‍⚧️ ts/mtf\n🚪¥150/240 ($30/50)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 42,
+                "start": 26,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/8wrbgvlIrh"
+              }
+            ]
+          }
+        },
+        "id": "2040565175514779648",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2052283383942635587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052280202512719874/upe5_UUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 194,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1077
+        },
+        "url": "https://t.co/8wrbgvlIrh",
+        "username": "amber_digit",
+        "verified": true
+      }
+    ]
+  }
+}

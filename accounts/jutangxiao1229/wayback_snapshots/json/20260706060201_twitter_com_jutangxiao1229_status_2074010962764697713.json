@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2073985714845549001",
+    "created_at": "2026-07-06T06:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T07:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074010962764697713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1677549435662880769",
+          "start": 0,
+          "username": "shoulianshui123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074010962764697713",
+    "in_reply_to_user_id": "1677549435662880769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074004852565475394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shoulianshui123 ε(´｡•᎑•`)っ♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2073985714845549001",
+        "created_at": "2026-07-06T06:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074010962764697713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1677549435662880769",
+              "start": 0,
+              "username": "shoulianshui123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074010962764697713",
+        "in_reply_to_user_id": "1677549435662880769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074004852565475394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shoulianshui123 ε(´｡•᎑•`)っ♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677549435662880769",
+        "conversation_id": "2073985714845549001",
+        "created_at": "2026-07-06T05:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074004852565475394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074004852565475394",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073985714845549001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 来蹲蹲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jutangxiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jutangxiao",
+                "start": 0,
+                "url": "https://t.co/DUSIG2aP97"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 208,
+          "like_count": 5314,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/DUSIG2aP97",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-08T05:25:41.000Z",
+        "description": "",
+        "id": "1677549435662880769",
+        "name": "收斂水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056246452482105344/vQ0oxM2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 266,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 96
+        },
+        "url": "",
+        "username": "shoulianshui123",
+        "verified": false
+      }
+    ]
+  }
+}

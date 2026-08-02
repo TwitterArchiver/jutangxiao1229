@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2048935969928499615",
+    "created_at": "2026-04-28T01:22:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T02:22:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048935969928499615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/36dch/status/2…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/36dch/status/2048704161265725645",
+          "start": 49,
+          "url": "https://t.co/2HKbOf3Wlz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048935969928499615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048704161265725645",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我第一次也是因为好奇，刚好疫情期间有大量的右美沙芬( ⩌⤚⩌)结果体验是困困困，然后睡着了•᎔• https://t.co/2HKbOf3Wlz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2048935969928499615",
+        "created_at": "2026-04-28T01:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T02:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048935969928499615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/36dch/status/2…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/36dch/status/2048704161265725645",
+              "start": 49,
+              "url": "https://t.co/2HKbOf3Wlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048935969928499615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048704161265725645",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我第一次也是因为好奇，刚好疫情期间有大量的右美沙芬( ⩌⤚⩌)结果体验是困困困，然后睡着了•᎔• https://t.co/2HKbOf3Wlz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985249484914450432",
+        "conversation_id": "2048704161265725645",
+        "created_at": "2026-04-27T10:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048704161265725645"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048704161265725645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6975,
+          "like_count": 291,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "わたしが0Dするようになったのは本当に興味本位だった\n初めて0Dしたのは🛁ソ、どんどん依存してってそれでバイト代を薬につぎ込むようになった\nやめたくてもやめられないってなるから興味本位だけで0Dは始めない方がいい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员@fghj87526441",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 86,
+                "username": "fghj87526441"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 100,
+          "like_count": 1588,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 181
+        },
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-03T07:35:48.000Z",
+        "description": "05￤ASD特性ありADHD￤APD￤うつ(寛解？)\n歯科衛生士1年目 本垢凍結されたため移転",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/c8h10n4o2_12",
+                "end": 23,
+                "expanded_url": "https://lit.link/c8h10n4o2_12",
+                "start": 0,
+                "url": "https://t.co/LhItkhcOlg"
+              }
+            ]
+          }
+        },
+        "id": "1985249484914450432",
+        "location": "INFJ",
+        "name": "姫宮",
+        "pinned_tweet_id": "2047889377565802562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047888463375298560/Ih4qN3YO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 244,
+          "like_count": 558,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 168
+        },
+        "url": "https://t.co/LhItkhcOlg",
+        "username": "36dch",
+        "verified": false
+      }
+    ]
+  }
+}

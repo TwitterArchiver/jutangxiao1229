@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2073748324554019035",
+    "created_at": "2026-07-05T12:51:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T13:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073751717758611869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2026259002813005824",
+          "start": 0,
+          "username": "OHOHOH121121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073751717758611869",
+    "in_reply_to_user_id": "2026259002813005824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073748324554019035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OHOHOH121121 抱抱你～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2073748318912663552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdvG95aUAAXVHD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2073748324554019035",
+        "created_at": "2026-07-05T12:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073751717758611869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026259002813005824",
+              "start": 0,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073751717758611869",
+        "in_reply_to_user_id": "2026259002813005824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073748324554019035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OHOHOH121121 抱抱你～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073748318912663552"
+          ]
+        },
+        "author_id": "2026259002813005824",
+        "conversation_id": "2073748324554019035",
+        "created_at": "2026-07-05T12:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073748324554019035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UoxFA0tgkp",
+              "end": 23,
+              "expanded_url": "https://x.com/OHOHOH121121/status/2073748324554019035/photo/1",
+              "media_key": "3_2073748318912663552",
+              "start": 0,
+              "url": "https://t.co/UoxFA0tgkp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073748324554019035",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UoxFA0tgkp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/mtf/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jutangxiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jutangxiao",
+                "start": 0,
+                "url": "https://t.co/DUSIG2aP97"
+              }
+            ]
+          }
+        },
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046809986580541440/7LXsKC60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 203,
+          "like_count": 5158,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/DUSIG2aP97",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 896,
+          "like_count": 5689,
+          "listed_count": 3,
+          "media_count": 205,
+          "tweet_count": 1514
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}
