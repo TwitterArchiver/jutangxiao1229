@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T13:05:10",
+  "last_updated": "2026-08-02T13:05:23",
   "html": {
     "https://web.archive.org/web/20260407030734if_/https://twitter.com/jutangxiao1229/status/2041352154892599586": {
       "status": "done",
@@ -4531,9 +4531,9 @@
         "20260502060504_twitter_com_jutangxiao1229_status_2050456520895414700.json",
         "20260502060628_twitter_com_jutangxiao1229_status_2050456873309278516.json"
       ],
-      "last_updated": "2026-08-02T12:44:01",
+      "last_updated": "2026-08-02T13:05:23",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260502060504/https://video.twimg.com/ext_tw_video/2050450481387020288/pu/vid/avc1/720x1280/EyqjbKoMeGIvz9c5.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2081809781334106112/vid/avc1/720x1280/38EyZIPNhR9w0b0X.mp4": {
       "status": "done",
