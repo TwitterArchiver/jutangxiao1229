@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084183611222441984"
+      ]
+    },
+    "author_id": "1845076547197353984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084183625738989773",
+    "created_at": "2026-08-03T07:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084183625738989773"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ao854sp0bP",
+          "end": 50,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2084183625738989773/photo/1",
+          "media_key": "3_2084183611222441984",
+          "start": 27,
+          "url": "https://t.co/Ao854sp0bP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084183625738989773",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "干咳有救了～\n- ̗̀ ෆ( ˶’ᵕ’˶)ෆ ̖́- https://t.co/Ao854sp0bP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2542,
+        "media_key": "3_2084183611222441984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyB87GawAAg3Fe.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084183611222441984"
+          ]
+        },
+        "author_id": "1845076547197353984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084183625738989773",
+        "created_at": "2026-08-03T07:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084183625738989773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ao854sp0bP",
+              "end": 50,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2084183625738989773/photo/1",
+              "media_key": "3_2084183611222441984",
+              "start": 27,
+              "url": "https://t.co/Ao854sp0bP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084183625738989773",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "干咳有救了～\n- ̗̀ ෆ( ˶’ᵕ’˶)ෆ ̖́- https://t.co/Ao854sp0bP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2596,
+          "following_count": 254,
+          "like_count": 12413,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 745
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2085650307997180229",
+    "created_at": "2026-08-07T10:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T11:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085668786808738281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809450762046738432",
+          "start": 0,
+          "username": "huacai2233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085668786808738281",
+    "in_reply_to_user_id": "1809450762046738432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085666416120955390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huacai2233 私信你了，宝子～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2085650307997180229",
+        "created_at": "2026-08-07T10:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085668786808738281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809450762046738432",
+              "start": 0,
+              "username": "huacai2233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085668786808738281",
+        "in_reply_to_user_id": "1809450762046738432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085666416120955390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huacai2233 私信你了，宝子～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809450762046738432",
+        "conversation_id": "2085650307997180229",
+        "created_at": "2026-08-07T09:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085666416120955390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085666416120955390",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085650307997180229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 这是啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/飞天猫🐱/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 258,
+          "like_count": 12646,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 761
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-06T04:54:36.000Z",
+        "description": "花菜\n08 想要和你们互fo扩列🥹",
+        "id": "1809450762046738432",
+        "name": "花菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809451374771597314/81b8jNcW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 39,
+          "like_count": 919,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 424
+        },
+        "url": "",
+        "username": "huacai2233",
+        "verified": true
+      }
+    ]
+  }
+}

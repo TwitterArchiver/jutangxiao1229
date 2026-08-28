@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2084114741233176898",
+    "created_at": "2026-08-04T02:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T03:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084463098656862718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1358617740597100544",
+          "start": 0,
+          "username": "Guducat23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084463098656862718",
+    "in_reply_to_user_id": "1358617740597100544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084383831206002998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guducat23333 成功下卡啦～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2084114741233176898",
+        "created_at": "2026-08-04T02:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084463098656862718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1358617740597100544",
+              "start": 0,
+              "username": "Guducat23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084463098656862718",
+        "in_reply_to_user_id": "1358617740597100544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084383831206002998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guducat23333 成功下卡啦～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1358617740597100544",
+        "conversation_id": "2084114741233176898",
+        "created_at": "2026-08-03T21:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T22:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084383831206002998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084383831206002998",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084114741233176898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 信用卡卡得巨严，没有工作的话，加上没有兜底担保人基本办不下来，至少我学生信用卡都办不下来……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2598,
+          "following_count": 254,
+          "like_count": 12423,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 747
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-08T03:24:53.000Z",
+        "description": "有OSDD和心理问题 | 包容任何没惹到我的个体，并心怀善意 | 头封自设 | 都在推特了什么都沾点不行吗 | 不键政 | 不定时碎碎念(或者发泄情绪) 会删帖 | 想查成分不如直接私信问清楚",
+        "id": "1358617740597100544",
+        "location": "珠三角",
+        "name": "孤独豹猫",
+        "pinned_tweet_id": "2084373952756158694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084338660166811648/Up6FwCln_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 60,
+          "like_count": 50,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "Guducat23333",
+        "verified": true
+      }
+    ]
+  }
+}

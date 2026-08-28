@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1845076547197353984",
+    "conversation_id": "2083426778467766615",
+    "created_at": "2026-08-02T07:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083812503084273903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1449738313540071431",
+          "start": 0,
+          "username": "ez4y2f"
+        },
+        {
+          "end": 20,
+          "id": "1108658732295028737",
+          "start": 8,
+          "username": "hatachi0525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083812503084273903",
+    "in_reply_to_user_id": "1449738313540071431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083499881948119417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ez4y2f @hatachi0525 我搜了一下，确实是这样！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2083426778467766615",
+        "created_at": "2026-08-02T07:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083812503084273903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1449738313540071431",
+              "start": 0,
+              "username": "ez4y2f"
+            },
+            {
+              "end": 20,
+              "id": "1108658732295028737",
+              "start": 8,
+              "username": "hatachi0525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083812503084273903",
+        "in_reply_to_user_id": "1449738313540071431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083499881948119417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ez4y2f @hatachi0525 我搜了一下，确实是这样！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1449738313540071431",
+        "conversation_id": "2083426778467766615",
+        "created_at": "2026-08-01T10:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083499881948119417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1108658732295028737",
+              "start": 0,
+              "username": "hatachi0525"
+            },
+            {
+              "end": 28,
+              "id": "1845076547197353984",
+              "start": 13,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083499881948119417",
+        "in_reply_to_user_id": "1108658732295028737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083463550392263009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatachi0525 @jutangxiao1229 劳拉瓶子上写的最大10mg qd吧 一瓶是0.5mg*20t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2696,
+          "following_count": 244,
+          "like_count": 12241,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 735
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-17T14:05:35.000Z",
+        "description": "D3bug the w0r1d | 狐狗。| AuDHD | they/them | 不登校 | 成分复杂 欢迎来狐狸窝玩 | 🌈🦊🐾🎵💻💡✂^-^里@hd4y2f❤️@ez4y2f\n尽己所能无偿提供技术帮助和减害措施\n有些时候我需要保全自己 抱歉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "hd4y2f"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "username": "ez4y2f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "y2.fo",
+                "end": 23,
+                "expanded_url": "https://y2.fo",
+                "start": 0,
+                "url": "https://t.co/X1cdlKbipY"
+              }
+            ]
+          }
+        },
+        "id": "1449738313540071431",
+        "location": "Foxnest",
+        "name": "ez4y2f",
+        "pinned_tweet_id": "2030757444847333657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037204527623888896/z2uuhR7H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 235,
+          "like_count": 2841,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1185
+        },
+        "url": "https://t.co/X1cdlKbipY",
+        "username": "ez4y2f",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-21T09:16:54.000Z",
+        "description": "170/48\n2016.12.19取證/含糖起始日不可考\n\n泛性戀？/顏值控/母胎單\n精神狀態良好（大概\n歡迎同類或藍勾互fo 如果我沒fo回去希望我fo的話請私",
+        "id": "1108658732295028737",
+        "location": "雌二醇星",
+        "name": "柔柔🍥",
+        "pinned_tweet_id": "2058946237144215858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059730096697782272/UItS3II-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 140,
+          "like_count": 635,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 1202
+        },
+        "url": "",
+        "username": "hatachi0525",
+        "verified": false
+      }
+    ]
+  }
+}

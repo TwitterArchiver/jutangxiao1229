@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084462991454707712",
+        "3_2084463007325880320"
+      ]
+    },
+    "author_id": "1845076547197353984",
+    "conversation_id": "2084463014795772157",
+    "created_at": "2026-08-04T02:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T03:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084463014795772157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MFfMxgdmkA",
+          "end": 64,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2084463014795772157/photo/1",
+          "media_key": "3_2084462991454707712",
+          "start": 41,
+          "url": "https://t.co/MFfMxgdmkA"
+        },
+        {
+          "display_url": "pic.x.com/MFfMxgdmkA",
+          "end": 64,
+          "expanded_url": "https://x.com/jutangxiao1229/status/2084463014795772157/photo/1",
+          "media_key": "3_2084463007325880320",
+          "start": 41,
+          "url": "https://t.co/MFfMxgdmkA"
+        },
+        {
+          "display_url": "x.com/jutangxiao1229…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/jutangxiao1229/status/2084114741233176898",
+          "start": 65,
+          "url": "https://t.co/czNDicnDQ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084463014795772157",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084114741233176898",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好消息，成功下卡了，完成首刷任务后还剩19000刀额度～\nε(´｡•᎑•`)っ♡ https://t.co/MFfMxgdmkA https://t.co/czNDicnDQ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2128,
+        "media_key": "3_2084462991454707712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2AC_kbIAAxiD-.jpg",
+        "width": 4000
+      },
+      {
+        "height": 589,
+        "media_key": "3_2084463007325880320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2AD6saAAAHga6.jpg",
+        "width": 968
+      },
+      {
+        "height": 2281,
+        "media_key": "3_2084114729052880896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxDTdBbQAAo9Xi.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084462991454707712",
+            "3_2084463007325880320"
+          ]
+        },
+        "author_id": "1845076547197353984",
+        "conversation_id": "2084463014795772157",
+        "created_at": "2026-08-04T02:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084463014795772157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MFfMxgdmkA",
+              "end": 64,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2084463014795772157/photo/1",
+              "media_key": "3_2084462991454707712",
+              "start": 41,
+              "url": "https://t.co/MFfMxgdmkA"
+            },
+            {
+              "display_url": "pic.x.com/MFfMxgdmkA",
+              "end": 64,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2084463014795772157/photo/1",
+              "media_key": "3_2084463007325880320",
+              "start": 41,
+              "url": "https://t.co/MFfMxgdmkA"
+            },
+            {
+              "display_url": "x.com/jutangxiao1229…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/jutangxiao1229/status/2084114741233176898",
+              "start": 65,
+              "url": "https://t.co/czNDicnDQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084463014795772157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084114741233176898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好消息，成功下卡了，完成首刷任务后还剩19000刀额度～\nε(´｡•᎑•`)っ♡ https://t.co/MFfMxgdmkA https://t.co/czNDicnDQ6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084114729052880896"
+          ]
+        },
+        "author_id": "1845076547197353984",
+        "conversation_id": "2084114741233176898",
+        "created_at": "2026-08-03T03:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084114741233176898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jte4mxZgRS",
+              "end": 74,
+              "expanded_url": "https://x.com/jutangxiao1229/status/2084114741233176898/photo/1",
+              "media_key": "3_2084114729052880896",
+              "start": 51,
+              "url": "https://t.co/jte4mxZgRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084114741233176898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1091,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次办信用卡，没工作不知道能不能成功办下来，粉色的卡真的好好看～\n☆˶&gt; x &lt;˶.⁺ https://t.co/jte4mxZgRS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2598,
+          "following_count": 254,
+          "like_count": 12421,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 746
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}
